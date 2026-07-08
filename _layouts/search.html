@@ -1,0 +1,134 @@
+---
+layout: default
+---
+
+<div class="page-wrap">
+  <h1>Search Regulations</h1>
+  <p style="color:var(--muted);margin-top:-.5rem;">Keyword search across all regulation content.</p>
+
+  <div class="search-wrap">
+    <input
+      type="search"
+      id="search-input"
+      class="search-input"
+      placeholder="e.g. Kahului Harbor, lobster, throw net…"
+      autofocus
+      autocomplete="off"
+    >
+  </div>
+
+  <div id="search-status" class="search-status" aria-live="polite"></div>
+  <div id="search-results"></div>
+</div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+(function () {
+  var input   = document.getElementById('search-input');
+  var status  = document.getElementById('search-status');
+  var results = document.getElementById('search-results');
+
+  var index, store;
+
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function (r) { return r.json(); })
+    .then(function (docs) {
+      store = {};
+      index = lunr(function () {
+        this.ref('url');
+        this.field('title', { boost: 10 });
+        this.field('content');
+
+        docs.forEach(function (doc) {
+          this.add(doc);
+          store[doc.url] = doc;
+        }, this);
+      });
+
+      // Run a search if query is already in the URL
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get('q');
+      if (q) {
+        input.value = q;
+        doSearch(q);
+      }
+    });
+
+  input.addEventListener('input', function () {
+    var q = this.value.trim();
+    // Update URL without reloading so the result is shareable
+    var url = q ? '/search/?q=' + encodeURIComponent(q) : '/search/';
+    history.replaceState(null, '', url);
+    doSearch(q);
+  });
+
+  function doSearch(q) {
+    results.innerHTML = '';
+    status.textContent = '';
+
+    if (!q || q.length < 2) return;
+    if (!index) {
+      status.textContent = 'Loading index…';
+      return;
+    }
+
+    var hits;
+    try {
+      // Try exact + fuzzy wildcard
+      hits = index.search(q + ' ' + q.split(/\s+/).map(function (t) {
+        return t.length > 3 ? t + '~1' : t;
+      }).join(' '));
+    } catch (e) {
+      hits = [];
+    }
+
+    if (!hits.length) {
+      status.textContent = 'No results for "' + q + '".';
+      return;
+    }
+
+    status.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's') + ' for "' + q + '"';
+
+    var html = '<ul class="search-result-list">';
+    hits.forEach(function (hit) {
+      var doc = store[hit.ref];
+      var snippet = getSnippet(doc.content, q);
+      html += '<li class="search-result">'
+        + '<a class="search-result-title" href="' + doc.url + '">' + escHtml(doc.title) + '</a>'
+        + '<p class="search-result-snippet">' + snippet + '</p>'
+        + '</li>';
+    });
+    html += '</ul>';
+    results.innerHTML = html;
+  }
+
+  function getSnippet(content, query) {
+    var words  = query.toLowerCase().split(/\s+/).filter(Boolean);
+    var lower  = content.toLowerCase();
+    var best   = -1;
+
+    words.forEach(function (w) {
+      var i = lower.indexOf(w);
+      if (i !== -1 && (best === -1 || i < best)) best = i;
+    });
+
+    var start = best === -1 ? 0 : Math.max(0, best - 80);
+    var end   = Math.min(content.length, start + 240);
+    var raw   = (start > 0 ? '…' : '') + content.slice(start, end).trim() + (end < content.length ? '…' : '');
+
+    // Highlight matched words
+    words.forEach(function (w) {
+      raw = raw.replace(new RegExp('(' + regEsc(w) + ')', 'gi'), '<mark>$1</mark>');
+    });
+    return raw;
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function regEsc(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+}());
+</script>

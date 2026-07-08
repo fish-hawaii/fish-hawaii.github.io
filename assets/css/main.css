@@ -593,3 +593,63 @@ figure.species-fig figcaption {
         gap: 0.5rem;
     }
 }
+
+/* ── Search ──────────────────────────────────────── */
+.search-wrap {
+    margin: 1.5rem 0;
+}
+.search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    outline: none;
+    background: var(--card);
+    color: var(--text);
+    box-sizing: border-box;
+}
+.search-input:focus {
+    border-color: var(--ocean-mid);
+    box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.15);
+}
+.search-status {
+    font-size: 0.875rem;
+    color: var(--muted);
+    margin-bottom: 1rem;
+}
+.search-result-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.search-result {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.75rem;
+}
+.search-result-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--ocean-dark);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.3rem;
+}
+.search-result-title:hover {
+    text-decoration: underline;
+}
+.search-result-snippet {
+    font-size: 0.875rem;
+    color: var(--muted);
+    margin: 0;
+    line-height: 1.6;
+}
+.search-result-snippet mark {
+    background: #fef08a;
+    color: var(--text);
+    border-radius: 2px;
+    padding: 0 2px;
+}
