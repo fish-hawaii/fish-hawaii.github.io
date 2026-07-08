@@ -1,0 +1,13 @@
+---
+layout: none
+---
+[
+  {% assign searchable = site.pages | where_exp: "p", "p.title and p.layout == 'page'" %}
+  {% for page in searchable %}
+  {
+    "title": {{ page.title | jsonify }},
+    "url": {{ page.url | relative_url | jsonify }},
+    "content": {{ page.content | strip_html | normalize_whitespace | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
