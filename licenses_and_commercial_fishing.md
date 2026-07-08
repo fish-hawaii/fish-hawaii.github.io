@@ -1,5 +1,24 @@
-# Licenses & Commercial Fishing Regulations
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: Licenses & Commercial Fishing
+permalink: /licenses/
+show_breadcrumb: true
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#recreational-fishing-licenses">Recreational Licenses</a></li>
+  <li><a href="#commercial-fishing">Commercial Fishing</a></li>
+  <li><a href="#bottom-fishing-deep-7">Bottom Fishing (Deep 7)</a></li>
+  <li><a href="#longline-fishing">Longline Fishing</a></li>
+  <li><a href="#dealers">Dealers</a></li>
+  <li><a href="#oahu-aquarium-fishing">O'ahu Aquarium Fishing</a></li>
+  <li><a href="#special-activities">Special Activity Permits</a></li>
+</ul>
+</div>
+
+# Licenses &amp; Commercial Fishing
 
 ---
 

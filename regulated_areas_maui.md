@@ -1,9 +1,33 @@
-# Regulated Fishing Areas — Maui
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: "Maui — Regulated Areas"
+permalink: /areas/maui/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#molokini-shoal-marine-life-conservation-district">Molokini Shoal MLCD</a></li>
+  <li><a href="#honolua-mokule%CA%BBia-bay-marine-life-conservation-district">Honolua-Mokulē'ia Bay MLCD</a></li>
+  <li><a href="#kahului-harbor">Kahului Harbor</a></li>
+  <li><a href="#kahekili-herbivore-fisheries-management-area">Kahekili Herbivore FMA</a></li>
+  <li><a href="#k%C4%ABpahulu-community-based-subsistence-fishing-area-cbsfa">Kīpahulu CBSFA</a></li>
+</ul>
+</div>
+
+# Maui — Regulated Fishing Areas
 
 ---
 
 ## Molokini Shoal Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_molokini_shoal_mlcd.png' | relative_url }}" alt="Map of Molokini Shoal MLCD">
+  <figcaption>Molokini Shoal MLCD — Subzone A (crater, fully protected) and Subzone B (trolling permitted)</figcaption>
+</figure>
 
 **Location:** Offshore of Molokini Shoal, about three miles from the southwestern coast of Maui.
 - **Subzone A** — Waters and submerged lands within the crater, bounded seaward by a straight line from the end of the submerged ridge extending off Lalilali Point to Pahe'e O Lono Point.
@@ -57,6 +81,11 @@ Source: fishing_regs_May_2025.pdf
 
 ## Kahekili Herbivore Fisheries Management Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_kahekili_herbivore_fma.jpg' | relative_url }}" alt="Map of Kahekili Herbivore FMA">
+  <figcaption>Kahekili Herbivore FMA — north Kā'anapali; parrotfish, surgeonfish, and sea urchins protected</figcaption>
+</figure>
+
 **Location:** Off north Kā'anapali. Northern boundary is a straight line extending 1,292 yards west from Honokōwai Beach Park; southern boundary is a straight line extending 335 yards west from Hanaka'ō'ō Beach; seaward boundary is a straight line connecting the seaward endpoints of the northern and southern boundaries.
 
 ### Permitted
@@ -71,6 +100,11 @@ Source: fishing_regs_May_2025.pdf
 ---
 
 ## Kīpahulu Community-Based Subsistence Fishing Area (CBSFA)
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_kipahulu_cbsfa_detail.png' | relative_url }}" alt="Map of Kīpahulu CBSFA">
+  <figcaption>Kīpahulu CBSFA — southeast Maui coast with 'Opihi Rest Area and Kukui Bay Sanctuary sub-zones</figcaption>
+</figure>
 
 **Location:** Southeast coast of Maui, from Kālepa Gulch in the west to Pua'alu'u Gulch in the east, from the shoreline out to approximately 60 meters depth. Contains two sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.11).
 

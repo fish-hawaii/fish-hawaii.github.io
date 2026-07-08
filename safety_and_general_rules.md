@@ -1,5 +1,29 @@
-# Safety & General Rules
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: Safety & General Rules
+permalink: /safety/
+show_breadcrumb: true
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#fish-safe">Fish Safe</a></li>
+  <li><a href="#use-barbless-circle-hooks">Barbless Circle Hooks</a></li>
+  <li><a href="#catch-and-release">Catch and Release</a></li>
+  <li><a href="#pono-fishing">Pono Fishing</a></li>
+  <li><a href="#shark-feeding">Shark Feeding</a></li>
+  <li><a href="#shark-fins">Shark Fins</a></li>
+  <li><a href="#dive-flags">Dive Flags</a></li>
+  <li><a href="#safe-fishing-practices-for-sea-turtles">Sea Turtle Safety</a></li>
+  <li><a href="#safe-fishing-practices-for-monk-seals">Monk Seal Safety</a></li>
+  <li><a href="#marine-animal-response-hotline">Marine Animal Hotline</a></li>
+  <li><a href="#violations-and-fines">Violations &amp; Fines</a></li>
+  <li><a href="#division-of-aquatic-resources-dar-offices">DAR Offices</a></li>
+</ul>
+</div>
+
+# Safety &amp; General Rules
 
 ---
 

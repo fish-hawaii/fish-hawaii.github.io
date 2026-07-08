@@ -1,5 +1,13 @@
+---
+layout: page
+title: Other Management Areas
+permalink: /areas/other/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
+
 # Other Management Areas
-Source: fishing_regs_May_2025.pdf
 
 These areas fall under the jurisdiction of DLNR divisions other than DAR, or other governmental agencies.
 
@@ -32,6 +40,11 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 
 ## Kaho'olawe Island Reserve
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_kahoolawe_reserve.png' | relative_url }}" alt="Map of Kaho'olawe Island Reserve">
+  <figcaption>Kaho'olawe Island Reserve — 2 nautical mile perimeter; entry prohibited without KIRC authorization</figcaption>
+</figure>
+
 **Location:** The island of Kaho'olawe and surrounding waters seaward to a distance of two nautical miles.
 
 > **DANGER:** The Reserve is a former military range, and unexploded ordnance is present on the island and in surrounding waters.
@@ -47,6 +60,11 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 ---
 
 ## Northwestern Hawaiian Islands Marine Refuge
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_northwestern_hawaiian_islands.png' | relative_url }}" alt="Map of Northwestern Hawaiian Islands Marine Refuge">
+  <figcaption>Northwestern Hawaiian Islands — Papahānaumokuākea Marine National Monument; entry requires a permit</figcaption>
+</figure>
 
 **Location:** Waters extending three miles seaward of any coastline from Nihoa Island to Kure Atoll, excluding Midway Atoll.
 

@@ -1,9 +1,35 @@
-# Regulated Fishing Areas — Kaua'i
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: "Kaua'i — Regulated Areas"
+permalink: /areas/kauai/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#hanam%C4%81ulu-bay-and-ahukini-recreational-pier">Hanamā'ulu Bay &amp; Ahukini Pier</a></li>
+  <li><a href="#n%C4%81wiliwili-harbor-and-port-allen">Nāwiliwili Harbor &amp; Port Allen</a></li>
+  <li><a href="#kapa%CA%BBa-and-waika%CA%BBea-canals">Kapa'a &amp; Waika'ea Canals</a></li>
+  <li><a href="#waimea-bay-and-waimea-recreational-pier">Waimea Bay &amp; Pier</a></li>
+  <li><a href="#k%C5%8Dke%CA%BBe-public-fishing-area">Kōke'e Public Fishing Area</a></li>
+  <li><a href="#wailua-reservoir-public-fishing-area">Wailua Reservoir PFA</a></li>
+  <li><a href="#h%C4%81%CA%BBena-community-based-subsistence-fishing-area-cbsfa">Hā'ena CBSFA</a></li>
+</ul>
+</div>
+
+# Kaua'i — Regulated Fishing Areas
 
 ---
 
 ## Hanamā'ulu Bay and Ahukini Recreational Pier
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_hanamaulu_bay_ahukini_pier.png' | relative_url }}" alt="Map of Hanamā'ulu Bay and Ahukini Pier">
+  <figcaption>Hanamā'ulu Bay FMA and Ahukini Recreational Pier area</figcaption>
+</figure>
 
 **Location:** The regulated region of the Hanamā'ulu Bay Fisheries Management Area is that portion of the bay, from the high-water mark seaward, bounded by a straight line from the tip of the breakwater westward to point "A." The Ahukini Recreational Pier is a public fishing pier and a facility of the Division of State Parks (State Park rules also apply).
 
@@ -31,6 +57,11 @@ Source: fishing_regs_May_2025.pdf
 
 ## Kapa'a and Waika'ea Canals
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_kapaa_waikaea_canals.png' | relative_url }}" alt="Map of Kapa'a and Waika'ea Canals">
+  <figcaption>Kapa'a and Waika'ea Canals — east Kaua'i fishing area</figcaption>
+</figure>
+
 **Location:** Located in the city of Kapa'a on the east coast of Kaua'i.
 
 ### Permitted
@@ -47,6 +78,11 @@ Source: fishing_regs_May_2025.pdf
 
 ## Waimea Bay and Waimea Recreational Pier
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_waimea_bay_pier.png' | relative_url }}" alt="Map of Waimea Bay and Recreational Pier">
+  <figcaption>Waimea Recreational Pier — south Kaua'i; pier-specific restrictions apply within 50 yards</figcaption>
+</figure>
+
 **Location:** Waimea Recreational Pier is a public fishing pier located in Waimea Bay on the southern coast of Kaua'i, and is a facility of the Division of State Parks (State Park rules also apply).
 
 ### Prohibited
@@ -60,6 +96,11 @@ Source: fishing_regs_May_2025.pdf
 ---
 
 ## Kōke'e Public Fishing Area
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_kokee_pfa_streams.png' | relative_url }}" alt="Map of Kōke'e PFA streams">
+  <figcaption>Kōke'e PFA — rainbow trout streams and restricted zones in Kōke'e State Park</figcaption>
+</figure>
 
 **Location:** Certain streams, reservoirs, and ditches in the Kōke'e State Park on Kaua'i.
 

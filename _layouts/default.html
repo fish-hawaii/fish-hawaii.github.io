@@ -3,23 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </nav>
+  <header class="site-header">
+    <div class="inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">
+        <span class="accent">Hawaii</span> Fishing Regulations
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/species/' | relative_url }}"{% if page.url contains '/species' %} class="active"{% endif %}>Species</a>
+        <a href="{{ '/gear/' | relative_url }}"{% if page.url contains '/gear' %} class="active"{% endif %}>Gear</a>
+        <a href="{{ '/safety/' | relative_url }}"{% if page.url contains '/safety' %} class="active"{% endif %}>Safety</a>
+        <a href="{{ '/licenses/' | relative_url }}"{% if page.url contains '/licenses' %} class="active"{% endif %}>Licenses</a>
+        <a href="{{ '/areas/' | relative_url }}"{% if page.url contains '/areas' %} class="active"{% endif %}>Regulated Areas</a>
+      </nav>
+    </div>
   </header>
 
-  <main>
-    {{ content }}
-  </main>
+  {{ content }}
 
-  <footer>
-    <p>Source: Hawaii Division of Aquatic Resources</p>
+  <footer class="site-footer">
+    <p>Source: Hawaii Division of Aquatic Resources &mdash; <em>fishing_regs_May_2025.pdf</em></p>
+    <p>For the official rulebook, visit <a href="https://dlnr.hawaii.gov/dar/fishing/" target="_blank" rel="noopener">dlnr.hawaii.gov/dar/fishing</a></p>
   </footer>
 </body>
 </html>

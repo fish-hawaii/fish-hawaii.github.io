@@ -1,9 +1,43 @@
-# Regulated Fishing Areas — Hawai'i Island
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: "Hawai'i Island — Regulated Areas"
+permalink: /areas/hawaii-island/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#kealakekua-bay-marine-life-conservation-district">Kealakekua Bay MLCD</a></li>
+  <li><a href="#old-kona-airport-marine-life-conservation-district">Old Kona Airport MLCD</a></li>
+  <li><a href="#waialea-bay-marine-life-conservation-district">Waialea Bay MLCD</a></li>
+  <li><a href="#lapakahi-marine-life-conservation-district">Lapakahi MLCD</a></li>
+  <li><a href="#wai%C4%81kea-public-fishing-area">Waiākea PFA (Hilo)</a></li>
+  <li><a href="#hilo-bay-wailoa-river-and-wailuku-river">Hilo Bay &amp; Rivers</a></li>
+  <li><a href="#west-hawai%CA%BBi-regional-fishery-management-area">West Hawai'i Regional FMA</a></li>
+  <li><a href="#puak%C5%8D-bay-and-puak%C5%8D-reef-fisheries-management-area">Puakō Bay FMA</a></li>
+  <li><a href="#kona-coast-fisheries-management-area">Kona Coast FMA</a></li>
+  <li><a href="#kiholo-bay-fisheries-management-area">Kiholo Bay FMA</a></li>
+  <li><a href="#kawaihae-harbor">Kawaihae Harbor</a></li>
+  <li><a href="#kailua-bay-fisheries-management-area">Kailua Bay FMA</a></li>
+  <li><a href="#keauhou-bay-fisheries-management-area">Keauhou Bay FMA</a></li>
+  <li><a href="#south-kona-miloli%CA%BBi">South Kona</a></li>
+  <li><a href="#miloli%CA%BBi-community-based-subsistence-fishing-area-cbsfa">Miloli'i CBSFA</a></li>
+</ul>
+</div>
+
+# Hawai'i Island — Regulated Fishing Areas
 
 ---
 
 ## Kealakekua Bay Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_kealakekua_bay_mlcd.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
 
 **Location:** Offshore of the Kealakekua Bay Historical State Park on the western coast of Hawai'i Island, from the high-water mark seaward to a line from Cook Point to Manini Beach Point. A line from Cook Point to the north end of Nāpō'opo'o Beach divides the District into **Subzone A** (north) and **Subzone B** (south). The Division of Boating and Ocean Recreation has also established provisions relating to boating, anchoring, and mooring within the MLCD.
 
@@ -73,6 +107,11 @@ Source: fishing_regs_May_2025.pdf
 
 ## Waiākea Public Fishing Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_waiakea_fish_pond_hilo.png' | relative_url }}" alt="Map of Waiākea fish pond PFA in Hilo">
+  <figcaption>Waiākea PFA — Wailoa River State Park, Hilo</figcaption>
+</figure>
+
 **Location:** That portion of the Waiākea fish pond in the Wailoa River State Park in Hilo, south of the footbridge over Wailoa River, including the flood control channel and Mahohuli fish pond. A boat launching ramp is located within the park. Rules of the State Parks System also apply.
 
 ### Permitted
@@ -94,6 +133,11 @@ Source: fishing_regs_May_2025.pdf
 ---
 
 ## Hilo Bay, Wailoa River, and Wailuku River
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_hilo_harbor_wailoa_river.png' | relative_url }}" alt="Map of Hilo Bay and Wailoa River restricted areas">
+  <figcaption>Hilo Bay, Wailoa River, and Wailuku River fishing restrictions</figcaption>
+</figure>
 
 **Location:**
 - **Hilo Harbor** — That portion of the bay in Hilo bounded seaward by the breakwater, and a line from the tip of the breakwater southwestward to Āle'ale'a Point.
@@ -120,6 +164,11 @@ Source: fishing_regs_May_2025.pdf
 ---
 
 ## West Hawai'i Regional Fishery Management Area
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_west_hawaii_fma_overview.png' | relative_url }}" alt="Overview map of West Hawai'i Regional FMA">
+  <figcaption>West Hawai'i Regional FMA — extends from South Point to 'Ūpolu Point, including all MLCDs, FRAs, and NRAs along the Kona Coast</figcaption>
+</figure>
 
 **Location:** Extends along the west coast of Hawai'i Island from Ka Lae, Ka'ū (South Point) to 'Ūpolu Point, North Kohala, and from the high-water mark on shore seaward to the limit of the State's management authority. Includes Fish Replenishment Areas (FRAs), Netting Restricted Areas (NRAs), Marine Reserve, and all Marine Life Conservation Districts and FMAs along the West Hawai'i shoreline.
 
@@ -201,6 +250,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ## Kona Coast Fisheries Management Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_kona_coast_fma_zones.png' | relative_url }}" alt="Map of Kona Coast FMA zones">
+  <figcaption>Kona Coast FMA — four zones: Wawāloli, Papawai Bay, Kailua Bay, and Red Hill</figcaption>
+</figure>
+
 **Location:** Four FMA Zones on the southwestern portion of Hawai'i Island, each bounded by two lines extending seaward at right angles from shore and marked by signs on shore. The seaward boundary is at a depth of **100 fathoms (600 ft)**:
 
 - **(a) "Wawāloli Zone"** — From south of Wawāloli Beach to south of Wāwahiwa'a Point
@@ -219,6 +273,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ## Kiholo Bay Fisheries Management Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_kiholo_bay_fma.png' | relative_url }}" alt="Map of Kiholo Bay FMA">
+  <figcaption>Kiholo Bay FMA — includes Wainānāli'i Pond (excludes Luahinewai Pond)</figcaption>
+</figure>
+
 **Location:** That part of Kiholo Bay enclosed by a straight line drawn from Nāwaikūlua Point to Hou Point, including the lagoon known as Wainānāli'i Pond, but not Luahinewai Pond.
 
 ### Permitted
@@ -231,6 +290,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ---
 
 ## Kawaihae Harbor
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_kawaihae_harbor.png' | relative_url }}" alt="Map of Kawaihae Harbor zones">
+  <figcaption>Kawaihae Harbor — Zone A and Zone B fishing rules</figcaption>
+</figure>
 
 **Location:** Kawaihae, South Kohala, on the northwest coast of Hawai'i Island. Restrictions apply to the south small boat basin.
 
@@ -299,6 +363,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ---
 
 ## Miloli'i Community-Based Subsistence Fishing Area (CBSFA)
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_miloii_cbsfa.png' | relative_url }}" alt="Map of Miloli'i CBSFA">
+  <figcaption>Miloli'i CBSFA — southwest Hawai'i Island, from Pa'akai Point to Kaunā Point</figcaption>
+</figure>
 
 **Location:** Waters and submerged lands from the shoreline to the 100-fathom depth contour on the southwest coast of Hawai'i Island, from Pa'akai Point at Kīpāhoehoe in the north to Kaunā Point in the south. Contains numerous sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.10).
 

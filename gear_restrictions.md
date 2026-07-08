@@ -1,5 +1,27 @@
+---
+layout: page
+title: Gear Restrictions
+permalink: /gear/
+show_breadcrumb: true
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#thrownets">Thrownets</a></li>
+  <li><a href="#gill-draw-drag-seine-or-other-nets">Gill, Draw &amp; Seine Nets</a></li>
+  <li><a href="#akule-nets">Akule Nets</a></li>
+  <li><a href="#drift-nets">Drift Nets</a></li>
+  <li><a href="#lay-nets-statewide">Lay Nets (Statewide)</a></li>
+  <li><a href="#lay-nets--moloka%CA%BBi-special-rules">Lay Nets — Moloka'i</a></li>
+  <li><a href="#traps">Traps</a></li>
+  <li><a href="#firearms-and-spears">Firearms &amp; Spears</a></li>
+  <li><a href="#drones-unmanned-aerial-vehicles">Drones</a></li>
+  <li><a href="#explosives-electro-fishing-devices-chemicals-poisons-and-intoxicants">Explosives &amp; Prohibited Methods</a></li>
+</ul>
+</div>
+
 # Gear Restrictions
-Source: fishing_regs_May_2025.pdf
 
 ---
 

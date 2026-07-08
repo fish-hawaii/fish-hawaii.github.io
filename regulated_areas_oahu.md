@@ -1,7 +1,96 @@
-# Regulated Fishing Areas — O'ahu
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: "O'ahu — Regulated Areas"
+permalink: /areas/oahu/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
 
-> **Note:** Hanauma Bay MLCD, Waikīkī MLCD, and Pūpūkea MLCD are documented in `regulations_pages4-11.md`.
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#hanauma-bay-marine-life-conservation-district">Hanauma Bay MLCD</a></li>
+  <li><a href="#waik%C4%ABk%C4%AB-marine-life-conservation-district">Waikīkī MLCD</a></li>
+  <li><a href="#p%C5%ABp%C5%ABkea-marine-life-conservation-district">Pūpūkea MLCD</a></li>
+  <li><a href="#waik%C4%ABk%C4%AB-diamond-head-shoreline-fisheries-management-area">Waikīkī-Diamond Head FMA</a></li>
+  <li><a href="#honolulu-harbor">Honolulu Harbor</a></li>
+  <li><a href="#maunalua-bay-fisheries-management-area">Maunalua Bay FMA</a></li>
+  <li><a href="#coconut-island--hawaii-marine-laboratory-refuge">Coconut Island Refuge</a></li>
+  <li><a href="#ala-wai-canal--kapālama-canal">Ala Wai &amp; Kapālama Canals</a></li>
+  <li><a href="#heeia-kea-wharf">He'eia Kea Wharf</a></li>
+  <li><a href="#p%C5%8Bka%CA%BB%C4%AB-bay">Pōka'ī Bay</a></li>
+  <li><a href="#waialua-bay-haleʻiwa-harbor">Waialua Bay</a></li>
+  <li><a href="#wahi%C4%81w%C4%81-public-fishing-area">Wahiawā PFA</a></li>
+  <li><a href="#nuuanu-freshwater-fish-refuge">Nu'uanu Freshwater Refuge</a></li>
+  <li><a href="#ewa-limu-management-area">'Ewa Limu Management Area</a></li>
+</ul>
+</div>
+
+# O'ahu — Regulated Fishing Areas
+
+> **Note:** Hanauma Bay MLCD, Waikīkī MLCD, and Pūpūkea MLCD rules are listed below as they appear in the source regulations.
+
+---
+
+## Hanauma Bay Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_hanauma_bay_mlcd.png' | relative_url }}" alt="Map of Hanauma Bay MLCD">
+  <figcaption>Hanauma Bay Marine Life Conservation District boundary</figcaption>
+</figure>
+
+**Location:** Offshore of Hanauma Bay Beach Park, southeastern coast of O'ahu, from the high-water mark seaward to a line from Palea Point to Pai'olu'olu Point. Also designated as a State Underwater Park (Division of State Parks rules also apply).
+
+**Permitted:**
+- Possess a knife in the water for personal safety.
+- With a permit, engage in activities otherwise prohibited for scientific, propagation, or other purposes.
+
+**Prohibited:**
+- Fish for, take, or injure any marine life (including eggs), or possess in the water any device that may be used for taking marine life.
+- Take or alter any sand, coral, or other geological feature or specimen; or possess in the water any device used for taking or altering geological features.
+- Introduce any food or other substance into the water to feed or attract marine life.
+- Operate any watercraft.
+
+---
+
+## Waikīkī Marine Life Conservation District
+
+**Location:** From the groin at Kapahulu Avenue to the ewa wall of the Waikīkī War Memorial Natatorium, from the high-water mark out to a minimum seaward distance of 500 yards (or to the seaward edge of the fringing reef if it occurs beyond 500 yards).
+
+**Permitted:**
+- Possess in the water any knife, shark billy, bang stick, powerhead, or carbon dioxide injector.
+- With a permit, engage in activities otherwise prohibited for scientific, propagation, or other purposes.
+
+**Prohibited:**
+- Fish for, take, or injure any marine life (including eggs), or possess in the water any device that may be used for taking marine life.
+- Take or alter any sand, coral, or other geological feature or specimen; or possess in the water any device used for taking or altering geological features.
+
+---
+
+## Pūpūkea Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_pupukea_mlcd_waimea_bay.png' | relative_url }}" alt="Map of Pūpūkea MLCD and Waimea Bay">
+  <figcaption>Pūpūkea MLCD and Waimea Bay boundary</figcaption>
+</figure>
+
+**Location:** Northern coast of O'ahu, from the high-water mark seaward, bounded by a line extending due west from Kulalua Point to a point 100 yards offshore, then south to the most seaward exposed rock of Wananapaoa Islets on the south side of Waimea Bay (including the islets), then due southeast to shore.
+
+**Permitted:**
+- Take and possess up to two pounds (combined total, squeezed dry) of limu kohu and limu lipe'epe'e by hand harvest only (holdfast must be left in place).
+- Possess a knife for personal safety.
+- *Within Waimea Bay only:* Take and possess any finfish with hook-and-line from shore (no more than two poles per person, one line per pole, no more than two hooks per line).
+- *Within Waimea Bay only (seasonal):* Take with legal nets and possess 'opelu during August and September, and akule during November and December.
+
+**Prohibited:**
+- Fish for, take, injure, kill, possess, or remove any marine life (including eggs), except as indicated in permitted activities above.
+- Take or alter any geological feature or specimen.
+- Possess in the water any device that may be used to take marine life, or alter any geological feature.
+- Introduce any food or other substance into the water to attract marine life (except as permitted for fishing in Waimea Bay).
+- Snag any akule while fishing from the shore of Waimea Bay.
+
+> **Warning:** Hazardous to enter water during periods of high surf along the North Shore.
 
 ---
 
@@ -39,6 +128,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 
 ## Honolulu Harbor
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_honolulu_harbor.png' | relative_url }}" alt="Map of Honolulu Harbor fishing restrictions">
+  <figcaption>Honolulu Harbor — restricted area boundaries</figcaption>
+</figure>
+
 **Location:** Primary port on the southern coast of O'ahu.
 
 ### Permitted
@@ -52,6 +146,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ---
 
 ## Maunalua Bay Fisheries Management Area
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_maunalua_bay_fma.png' | relative_url }}" alt="Map of Maunalua Bay FMA">
+  <figcaption>Maunalua Bay Fisheries Management Area boundary</figcaption>
+</figure>
 
 **Location:** Southeastern coast of O'ahu, from the high-water mark seaward to a straight line extending from the southern tip of Kawaihoa Point (Spitting Caves) westward to the Diamond Head buoy, then a straight line from the buoy to the Diamond Head lighthouse.
 
@@ -93,6 +192,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 
 ## He'eia Kea Wharf
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_heeia_kea_wharf.png' | relative_url }}" alt="Map of He'eia Kea Wharf area">
+  <figcaption>He'eia Kea Wharf — Kāne'ohe Bay restricted area</figcaption>
+</figure>
+
 **Location:** He'eia Kea Boat Harbor on Kāne'ohe Bay, O'ahu.
 
 ### Permitted
@@ -109,6 +213,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 
 ## Pōka'ī Bay
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_pokai_bay.png' | relative_url }}" alt="Map of Pōka'ī Bay restricted area">
+  <figcaption>Pōka'ī Bay / Wai'anae Small Boat Harbor fishing restrictions</figcaption>
+</figure>
+
 **Location:** That portion of Pōka'ī Bay including the Pōka'ī Boat Harbor and the Wai'anae Small Boat Harbor, the seaward boundary a straight line from Kane'ilio Point to Lahilahi Point, and the northwestern boundary a straight line extending southwest from the point immediately seaward of Wai'anae High School.
 
 ### Permitted
@@ -124,6 +233,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ---
 
 ## Waialua Bay (Hale'iwa Harbor)
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_haleiwa_harbor_waialua_bay.png' | relative_url }}" alt="Map of Waialua Bay / Hale'iwa Harbor restricted area">
+  <figcaption>Waialua Bay / Hale'iwa Harbor fishing area boundaries</figcaption>
+</figure>
 
 **Location:** That portion of Waialua Bay at Hale'iwa bounded by lines drawn 100 yards seaward of and parallel to the Hale'iwa Harbor Breakwater and 100 yards seaward of and parallel to the Hale'iwa Beach Groin, and inland by a line ten yards downstream of and parallel to the Anahulu Bridge.
 

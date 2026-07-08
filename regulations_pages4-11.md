@@ -1,4 +1,27 @@
-# Hawaii Fishing Regulations — Source: fishing_regs_May_2025.pdf (Pages 4–11)
+---
+layout: page
+title: Species & Bag Limits
+permalink: /species/
+show_breadcrumb: true
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#marine-fish-regulations">Marine Fish Regulations</a></li>
+  <li><a href="#deep-7-bottomfish">Deep 7 Bottomfish</a></li>
+  <li><a href="#schoolingbaitfish-regulations">Schooling / Baitfish</a></li>
+  <li><a href="#protected-species--no-open-season">Protected Species</a></li>
+  <li><a href="#crustacean--invertebrate-regulations">Crustaceans &amp; Invertebrates</a></li>
+  <li><a href="#measuring-fish--invertebrates">Measuring Guide</a></li>
+  <li><a href="#identifying-regulated-uhu-parrotfish-species">Identifying Uhu (Parrotfish)</a></li>
+  <li><a href="#other-regulated-marine-species">Coral, Live Rock &amp; Limu</a></li>
+  <li><a href="#scientific-names-of-regulated-species">Scientific Names</a></li>
+  <li><a href="#regulated-freshwater-species">Freshwater Species</a></li>
+</ul>
+</div>
+
+# Species &amp; Bag Limits
 
 ---
 
@@ -63,6 +86,11 @@
 
 ## Protected Species — No Open Season
 
+<figure class="species-fig">
+  <img src="{{ '/images/species_shark_ray_mano_hihimanu.jpg' | relative_url }}" alt="Shark and ray — mano and hīhīmanu">
+  <figcaption>Mano (shark) and hīhīmanu (ray) — fully protected; no take at any time.</figcaption>
+</figure>
+
 | Species | Notes |
 |---------|-------|
 | Mano (shark) & hīhīmanu (ray) | No size/bag limit. Unlawful to capture, entangle (alive or dead), or kill any shark or ray. |
@@ -82,6 +110,11 @@
 | Samoan crab | Open | 6 inches (width across back) | — | No spearing. No taking with eggs. No taking or killing females. |
 | He'e (octopus, tako, "squid") | Open | 1 pound | — | None |
 | 'Opihi | Open | 1¼ inches (shell diameter); ½ inch (meat diameter, if meat only) | — | None |
+
+<figure class="species-fig">
+  <img src="{{ '/images/species_opihi_limpet.jpg' | relative_url }}" alt="'Opihi (limpet)">
+  <figcaption>'Opihi — minimum shell diameter 1¼ inches.</figcaption>
+</figure>
 | Clams, oysters, and other mollusks | Closed | — | — | Taking prohibited |
 
 ### Sea Cucumbers
@@ -98,7 +131,15 @@
 ### Fish
 - Measure **Fork Length**: straight-line distance from tip of snout to middle of trailing edge of tail.
 
+<div class="clearfix"></div>
+
 ### Ula (Spiny Lobster)
+
+<figure class="species-fig">
+  <img src="{{ '/images/species_lobster_ula_tail_sexing.png' | relative_url }}" alt="Spiny lobster (ula) — tail sexing diagram">
+  <figcaption>Ula sexing diagram — females (right) have broader tails and may not be taken.</figcaption>
+</figure>
+
 - Measure **Carapace Length**: distance from ridge between two largest spines above eyes to rear edge of carapace.
 - **Sexing:** Male — swimmerets each have one leaf-like segment; end of fifth (last) walking leg not claw-shaped. Female — swimmerets each have two branches; first set both leaf-like, others have one leaf-like and one rod-like; swimmerets usually larger; end of fifth walking leg claw-shaped.
 - **Taking of females prohibited.**
@@ -107,7 +148,15 @@
 - Measure **Tail Width** between first and second abdominal segments.
 - **Sexing:** Male — "tail" (abdomen) narrow and pointed; front edge of carapace squared with growth, develops horn-like extensions. Female — abdomen broad and rounded; swimmerets larger with long bristles; front carapace edge remains rounded.
 
+<div class="clearfix"></div>
+
 ### Kona Crab
+
+<figure class="species-fig">
+  <img src="{{ '/images/species_kona_crab_papai_kualoa_female.png' | relative_url }}" alt="Kona crab (pāpa'i kualoa) — female">
+  <figcaption>Pāpa'i kualoa (Kona crab) female — broad abdomen; females may not be taken.</figcaption>
+</figure>
+
 - Measure **Carapace Length** in straight line from rostrum to middle of trailing edge of carapace.
 - **Sexing:** Male — "tail" (abdomen) narrow and pointed. Female — abdomen broad and rounded; first two segments about as wide as body.
 - **Taking of females prohibited.**
@@ -125,12 +174,24 @@
 
 ---
 
+<div class="clearfix"></div>
+
 ## Identifying Regulated Uhu (Parrotfish) Species
+
+<figure class="species-fig">
+  <img src="{{ '/images/species_uhu_uliuli_terminal_male.png' | relative_url }}" alt="Uhu uliuli — terminal male parrotfish">
+  <figcaption>Uhu uliuli (terminal male) — blue-green with yellow pectoral base.</figcaption>
+</figure>
 
 ### Uhu uliuli (terminal male)
 - Blue-green coloration with dark dots on anterior scales and pinkish edges on posterior scales.
 - Conspicuous blue-edged lateral band in front of eyes, across top of snout.
 - Bright yellow mark at base of pectoral fins.
+
+<figure class="species-fig" style="clear:right;margin-top:1rem;">
+  <img src="{{ '/images/species_uhu_ahuula.png' | relative_url }}" alt="Uhu 'ahu'ula parrotfish">
+  <figcaption>Uhu 'ahu'ula — dark reddish-brown with red fins and white caudal band.</figcaption>
+</figure>
 
 ### Uhu 'ahu'ula
 - Dark reddish-brown coloration with darker scale margins. Red fins.

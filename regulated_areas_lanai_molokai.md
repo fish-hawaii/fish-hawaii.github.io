@@ -1,11 +1,41 @@
-# Regulated Fishing Areas — Lāna'i & Moloka'i
-Source: fishing_regs_May_2025.pdf
+---
+layout: page
+title: "Lāna'i & Moloka'i — Regulated Areas"
+permalink: /areas/lanai-molokai/
+show_breadcrumb: true
+breadcrumb_parent: Regulated Areas
+breadcrumb_parent_url: /areas/
+---
+
+<div class="page-toc">
+<strong>On this page</strong>
+<ul>
+  <li><a href="#lānaʻi">Lāna'i</a>
+    <ul>
+      <li><a href="#m%C4%81nele-hulopo%CA%BBe-marine-life-conservation-district">Mānele-Hulopo'e MLCD</a></li>
+      <li><a href="#m%C4%81nele-harbor">Mānele Harbor</a></li>
+    </ul>
+  </li>
+  <li><a href="#moloka%CA%BBi">Moloka'i</a>
+    <ul>
+      <li><a href="#kaunakakai-harbor">Kaunakakai Harbor</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+# Lāna'i &amp; Moloka'i — Regulated Fishing Areas
 
 ---
 
 ## LĀNA'I
 
 ### Mānele-Hulopo'e Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_lanai_manele_hulopoe_mlcd.png' | relative_url }}" alt="Map of Mānele-Hulopo'e MLCD on Lāna'i">
+  <figcaption>Mānele-Hulopo'e MLCD — Subzone A (vessel-free) and Subzone B, southwestern Lāna'i</figcaption>
+</figure>
 
 **Location:** Offshore of Palawai and Kamao on the southwestern coast of Lāna'i.
 - **Subzone A** — Bounded seaward by a line from Kaluako'i Point to Flat Rock, then to Pu'u Pehe Rock.
@@ -47,6 +77,11 @@ Permitted activities should not be construed as allowing activities otherwise pr
 ## MOLOKA'I
 
 ### Kaunakakai Harbor
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_molokai_kaunakakai_harbor.png' | relative_url }}" alt="Map of Kaunakakai Harbor areas">
+  <figcaption>Kaunakakai Harbor — Areas 1A, 1B, and 2 fishing rules</figcaption>
+</figure>
 
 **Location:** Southern coast of Moloka'i.
 - **Area 1A** and **Area 1B** — Portions of the commercial harbor, separated by a line extending from the Channel Range Lights.
