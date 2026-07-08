@@ -653,3 +653,150 @@ figure.species-fig figcaption {
     border-radius: 2px;
     padding: 0 2px;
 }
+
+/* ── Ask AI ──────────────────────────────────────── */
+.ask-subtitle {
+    color: var(--muted);
+    margin-top: -0.5rem;
+    margin-bottom: 1.5rem;
+}
+.api-key-section {
+    background: var(--ocean-light);
+    border: 1px solid #bae6fd;
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.75rem;
+}
+.api-key-label {
+    display: block;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+.api-key-hint {
+    display: block;
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-top: 0.1rem;
+}
+.api-key-row {
+    display: flex;
+    gap: 0.5rem;
+}
+.api-key-input {
+    flex: 1;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    outline: none;
+    background: var(--card);
+    color: var(--text);
+    font-family: monospace;
+}
+.api-key-input:focus {
+    border-color: var(--ocean-mid);
+    box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.15);
+}
+.btn-save {
+    padding: 0.5rem 1rem;
+    background: var(--ocean);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn-save:hover {
+    background: var(--ocean-dark);
+}
+.api-key-status {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin: 0.4rem 0 0;
+}
+.ask-form {
+    margin-bottom: 1.5rem;
+}
+.question-label {
+    display: block;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+.question-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    outline: none;
+    background: var(--card);
+    color: var(--text);
+    resize: vertical;
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+}
+.question-input:focus {
+    border-color: var(--ocean-mid);
+    box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.15);
+}
+.btn-ask {
+    padding: 0.6rem 1.5rem;
+    background: var(--ocean-dark);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.btn-ask:hover:not(:disabled) {
+    background: var(--ocean);
+}
+.btn-ask:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+.answer-section {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+.answer-label {
+    background: var(--ocean-dark);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.4rem 1rem;
+}
+.answer-body {
+    padding: 1rem 1.25rem;
+    font-size: 0.975rem;
+    line-height: 1.75;
+    white-space: pre-wrap;
+    min-height: 3rem;
+}
+.answer-footer {
+    border-top: 1px solid var(--border);
+    padding: 0.5rem 1.25rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+}
+.ask-error {
+    background: var(--red-light);
+    border: 1px solid var(--red);
+    border-radius: var(--radius);
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+    color: var(--red);
+}
