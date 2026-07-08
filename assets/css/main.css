@@ -660,6 +660,15 @@ figure.species-fig figcaption {
     margin-top: -0.5rem;
     margin-bottom: 1.5rem;
 }
+.api-key-warning {
+    background: var(--amber-light);
+    border: 1px solid var(--amber);
+    border-radius: var(--radius);
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    color: var(--text);
+    margin-bottom: 1.25rem;
+}
 .api-key-section {
     background: var(--ocean-light);
     border: 1px solid #bae6fd;
@@ -711,6 +720,19 @@ figure.species-fig figcaption {
 }
 .btn-save:hover {
     background: var(--ocean-dark);
+}
+.btn-delete {
+    padding: 0.5rem 1rem;
+    background: transparent;
+    color: var(--red);
+    border: 1px solid var(--red);
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn-delete:hover {
+    background: var(--red-light);
 }
 .api-key-status {
     font-size: 0.8rem;
