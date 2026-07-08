@@ -1,7 +1,7 @@
 title: Hawaii Fishing Regulations
 description: A plain-language guide to Hawaii Division of Aquatic Resources fishing regulations — species limits, gear restrictions, regulated areas, and more.
-baseurl: "/hawaii-fishing-regulations"
-url: "https://mdemichele.github.io"
+baseurl: ""
+url: "https://fish-hawaii.github.io"
 
 markdown: kramdown
 highlighter: rouge
