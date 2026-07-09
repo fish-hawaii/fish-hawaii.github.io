@@ -55,6 +55,11 @@ breadcrumb_parent_url: /areas/
 
 ## Old Kona Airport Marine Life Conservation District
 
+<figure class="map-fig">
+  <img src="{{ '/images/kona_airport.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
+
 **Location:** (1) Waters offshore of the Old Kona Airport to the Kailua Lighthouse, bounded by a straight line from Point "A" seaward 500 yards, to a straight line from the Kailua Lighthouse seaward 500 yards; and (2) a "No Boating Zone" within the MLCD bounded by a straight line from Keahuolū Point to the southwestern corner of private property at Point "B".
 
 ### Permitted
@@ -75,6 +80,11 @@ breadcrumb_parent_url: /areas/
 
 ## Waialea Bay Marine Life Conservation District
 
+<figure class="map-fig">
+  <img src="{{ '/images/waialea_bay.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
+
 **Location:** Offshore of Waialea Bay along the northwestern coast of Hawai'i Island, from the high-water mark seaward to a line from Kānekanaka Point to the point immediately north of 'Ōhai Point.
 
 ### Permitted
@@ -90,6 +100,11 @@ breadcrumb_parent_url: /areas/
 ---
 
 ## Lapakahi Marine Life Conservation District
+
+<figure class="map-fig">
+  <img src="{{ '/images/lapakahi.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
 
 **Location:** Encompasses **Subzone A** (Koai'e Cove) and **Subzone B**, the adjacent shoreline area extending approximately 500 feet offshore of the Lapakahi State Historical Park on the northwestern coast of Hawai'i Island.
 
@@ -236,6 +251,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ## Puakō Bay and Puakō Reef Fisheries Management Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/Puako.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
+
 **Location:** That portion of the reef from the shoreline at the westernmost edge of the boat ramp, along a line drawn parallel with the ramp seaward to the edge of the fringing reef north of Puakō Point, then southwesterly following the fringing reef a minimum seaward distance of 250 yards (or to the edge of the fringing reef if one occurs beyond 250 yards), to a line due west of the small cove at the southern end of Puakō Beach Road.
 
 ### Permitted
@@ -316,6 +336,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ## Kailua Bay Fisheries Management Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/kailua.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
+
 **Location:** That portion of Kailua Bay enclosed by a straight line drawn from Kukailimoku Point to the seawall of the Royal Kona Resort. A line from the northern edge of the channel at "Thurston Point" to the corner ("Wīha Point") south of Hulihe'e Palace and north of the former Kona Inn Hotel separates **Zone A** (northwestern portion) from the seaward **Zone B**.
 
 ### Permitted
@@ -337,6 +362,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ---
 
 ## Keauhou Bay Fisheries Management Area
+
+<figure class="map-fig">
+  <img src="{{ '/images/keauhou_bay.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
+</figure>
 
 **Location:** That portion of the bay bounded by a straight line drawn from Haiku'ua Point to Kaukala'ela'e Point.
 

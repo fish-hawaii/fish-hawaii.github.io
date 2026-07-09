@@ -462,6 +462,22 @@ figure.map-fig figcaption {
     font-style: italic;
 }
 
+/* ── Species photo thumbnails (in tables) ─────────── */
+.species-thumb {
+    width: 150px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    display: block;
+}
+td:has(.species-thumb) {
+    vertical-align: middle;
+    width: 200px;
+    height: 120px;
+    padding: 0.35rem 0.5rem;
+}
+
 /* ── Inline species images ───────────────────────── */
 figure.species-fig {
     float: right;
