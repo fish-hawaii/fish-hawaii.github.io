@@ -12,7 +12,6 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
 
 exclude:
   - Gemfile
