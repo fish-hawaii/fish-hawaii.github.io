@@ -57,7 +57,8 @@ layout: default
   input.addEventListener('input', function () {
     var q = this.value.trim();
     // Update URL without reloading so the result is shareable
-    var url = q ? '/search/?q=' + encodeURIComponent(q) : '/search/';
+    var base = '{{ "/search/" | relative_url }}';
+    var url = q ? base + '?q=' + encodeURIComponent(q) : base;
     history.replaceState(null, '', url);
     doSearch(q);
   });
