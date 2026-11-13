@@ -847,3 +847,28 @@ figure.species-fig figcaption {
     font-size: 0.9rem;
     color: var(--red);
 }
+
+/* ── Search / Ask AI tabs ────────────────────────── */
+.search-tabs {
+    display: flex;
+    gap: 0.25rem;
+    border-bottom: 2px solid var(--border);
+    margin-bottom: 1.5rem;
+}
+.search-tab {
+    padding: 0.5rem 1rem;
+    margin-bottom: -2px;
+    border-bottom: 2px solid transparent;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+.search-tab:hover {
+    color: var(--ocean);
+    text-decoration: none;
+}
+.search-tab.active {
+    color: var(--ocean-dark);
+    border-bottom-color: var(--ocean);
+}
