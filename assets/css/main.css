@@ -36,6 +36,22 @@ img {
     display: block;
 }
 
+/* Visible keyboard focus for links, buttons and cards */
+:focus-visible {
+    outline: 3px solid var(--ocean-mid);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+.site-header :focus-visible,
+.site-footer :focus-visible,
+.hero :focus-visible {
+    outline-color: white;
+}
+.card:focus-visible,
+.island-card:focus-visible {
+    border-color: var(--ocean-mid);
+}
+
 /* ── Base ───────────────────────────────────────── */
 body {
     font-family:
