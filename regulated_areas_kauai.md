@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Kaua'i — Regulated Areas"
+title: "Kauaʻi — Regulated Areas"
 permalink: /areas/kauai/
 show_breadcrumb: true
 breadcrumb_parent: Regulated Areas
@@ -10,28 +10,28 @@ breadcrumb_parent_url: /areas/
 <div class="page-toc">
 <strong>On this page</strong>
 <ul>
-  <li><a href="#hanam%C4%81ulu-bay-and-ahukini-recreational-pier">Hanamā'ulu Bay &amp; Ahukini Pier</a></li>
+  <li><a href="#hanamāʻulu-bay-and-ahukini-recreational-pier">Hanamāʻulu Bay &amp; Ahukini Pier</a></li>
   <li><a href="#n%C4%81wiliwili-harbor-and-port-allen">Nāwiliwili Harbor &amp; Port Allen</a></li>
-  <li><a href="#kapa%CA%BBa-and-waika%CA%BBea-canals">Kapa'a &amp; Waika'ea Canals</a></li>
+  <li><a href="#kapa%CA%BBa-and-waika%CA%BBea-canals">Kapaʻa &amp; Waikaʻea Canals</a></li>
   <li><a href="#waimea-bay-and-waimea-recreational-pier">Waimea Bay &amp; Pier</a></li>
-  <li><a href="#k%C5%8Dke%CA%BBe-public-fishing-area">Kōke'e Public Fishing Area</a></li>
+  <li><a href="#k%C5%8Dke%CA%BBe-public-fishing-area">Kōkeʻe Public Fishing Area</a></li>
   <li><a href="#wailua-reservoir-public-fishing-area">Wailua Reservoir PFA</a></li>
-  <li><a href="#h%C4%81%CA%BBena-community-based-subsistence-fishing-area-cbsfa">Hā'ena CBSFA</a></li>
+  <li><a href="#h%C4%81%CA%BBena-community-based-subsistence-fishing-area-cbsfa">Hāʻena CBSFA</a></li>
 </ul>
 </div>
 
-# Kaua'i — Regulated Fishing Areas
+# Kauaʻi — Regulated Fishing Areas
 
 ---
 
-## Hanamā'ulu Bay and Ahukini Recreational Pier
+## Hanamāʻulu Bay and Ahukini Recreational Pier
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_hanamaulu_bay_ahukini_pier.png' | relative_url }}" alt="Map of Hanamā'ulu Bay and Ahukini Pier">
-  <figcaption>Hanamā'ulu Bay FMA and Ahukini Recreational Pier area</figcaption>
+  <img src="{{ '/images/map_kauai_hanamaulu_bay_ahukini_pier.png' | relative_url }}" alt="Map of Hanamāʻulu Bay and Ahukini Pier">
+  <figcaption>Hanamāʻulu Bay FMA and Ahukini Recreational Pier area</figcaption>
 </figure>
 
-**Location:** The regulated region of the Hanamā'ulu Bay Fisheries Management Area is that portion of the bay, from the high-water mark seaward, bounded by a straight line from the tip of the breakwater westward to point "A." The Ahukini Recreational Pier is a public fishing pier and a facility of the Division of State Parks (State Park rules also apply).
+**Location:** The regulated region of the Hanamāʻulu Bay Fisheries Management Area is that portion of the bay, from the high-water mark seaward, bounded by a straight line from the tip of the breakwater westward to point "A." The Ahukini Recreational Pier is a public fishing pier and a facility of the Division of State Parks (State Park rules also apply).
 
 ### Prohibited
 - Swim in Zone 1.
@@ -65,14 +65,14 @@ breadcrumb_parent_url: /areas/
 
 ---
 
-## Kapa'a and Waika'ea Canals
+## Kapaʻa and Waikaʻea Canals
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_kapaa_waikaea_canals.png' | relative_url }}" alt="Map of Kapa'a and Waika'ea Canals">
-  <figcaption>Kapa'a and Waika'ea Canals — east Kaua'i fishing area</figcaption>
+  <img src="{{ '/images/map_kauai_kapaa_waikaea_canals.png' | relative_url }}" alt="Map of Kapaʻa and Waikaʻea Canals">
+  <figcaption>Kapaʻa and Waikaʻea Canals — east Kauaʻi fishing area</figcaption>
 </figure>
 
-**Location:** Located in the city of Kapa'a on the east coast of Kaua'i.
+**Location:** Located in the city of Kapaʻa on the east coast of Kauaʻi.
 
 ### Permitted
 - Take any legal-size fish in season with one line, or one rod and line, with no more than two hooks.
@@ -90,10 +90,10 @@ breadcrumb_parent_url: /areas/
 
 <figure class="map-fig">
   <img src="{{ '/images/map_kauai_waimea_bay_pier.png' | relative_url }}" alt="Map of Waimea Bay and Recreational Pier">
-  <figcaption>Waimea Recreational Pier — south Kaua'i; pier-specific restrictions apply within 50 yards</figcaption>
+  <figcaption>Waimea Recreational Pier — south Kauaʻi; pier-specific restrictions apply within 50 yards</figcaption>
 </figure>
 
-**Location:** Waimea Recreational Pier is a public fishing pier located in Waimea Bay on the southern coast of Kaua'i, and is a facility of the Division of State Parks (State Park rules also apply).
+**Location:** Waimea Recreational Pier is a public fishing pier located in Waimea Bay on the southern coast of Kauaʻi, and is a facility of the Division of State Parks (State Park rules also apply).
 
 ### Prohibited
 - Within 50 yards of the Waimea Recreational Pier: use any spear, trap, or any type of net except crab net.
@@ -105,14 +105,14 @@ breadcrumb_parent_url: /areas/
 
 ---
 
-## Kōke'e Public Fishing Area
+## Kōkeʻe Public Fishing Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_kokee_pfa_streams.png' | relative_url }}" alt="Map of Kōke'e PFA streams">
-  <figcaption>Kōke'e PFA — rainbow trout streams and restricted zones in Kōke'e State Park</figcaption>
+  <img src="{{ '/images/map_kauai_kokee_pfa_streams.png' | relative_url }}" alt="Map of Kōkeʻe PFA streams">
+  <figcaption>Kōkeʻe PFA — rainbow trout streams and restricted zones in Kōkeʻe State Park</figcaption>
 </figure>
 
-**Location:** Certain streams, reservoirs, and ditches in the Kōke'e State Park on Kaua'i.
+**Location:** Certain streams, reservoirs, and ditches in the Kōkeʻe State Park on Kauaʻi.
 
 ### Permitted
 - During an open season announced by the Department on or about January 1 each year, and with a valid Freshwater Game Fishing License: fish for, possess, or remove rainbow trout with one pole and line, or one line using one baited hook attached to the single line.
@@ -126,7 +126,7 @@ breadcrumb_parent_url: /areas/
 - Use any form of corn for bait.
 - Use treble hooks or more than one hook.
 - Possess spears, chemicals, trotlines, or nets (except as indicated in permitted activities above) or other illegal fishing gear.
-- Enter into or fish in the prohibited fishing zone along a portion of Kōke'e Stream and its tributaries above Camp Sloggett, or any other area posted as a prohibited fishing zone.
+- Enter into or fish in the prohibited fishing zone along a portion of Kōkeʻe Stream and its tributaries above Camp Sloggett, or any other area posted as a prohibited fishing zone.
 - Damage or mutilate any private or public property, or contaminate or pollute any stream, ditch, spring, water hole, or reservoir.
 - Operate any vehicle in any fishing area except on roads for vehicular use, or use any aircraft to gain access for fishing purposes.
 
@@ -139,7 +139,7 @@ breadcrumb_parent_url: /areas/
   <figcaption>Wailua Reservoir Public Fishing Area</figcaption>
 </figure>
 
-**Location:** Located off Kuamo'o Road approximately five miles mauka of Kūhi'ō Hwy, above the city of Wailua on Kaua'i.
+**Location:** Located off Kuamoʻo Road approximately five miles mauka of Kūhiʻō Hwy, above the city of Wailua on Kauaʻi.
 
 ### Permitted
 - With a valid Freshwater Game Fishing License: fish using one pole and line, or one line with one lure or baited hook attached to the single line.
@@ -170,20 +170,20 @@ breadcrumb_parent_url: /areas/
 
 ---
 
-## Hā'ena Community-Based Subsistence Fishing Area (CBSFA)
+## Hāʻena Community-Based Subsistence Fishing Area (CBSFA)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_haena_cbsfa.png' | relative_url }}" alt="Map of Hā'ena CBSFA">
-  <figcaption>Hā'ena Community-Based Subsistence Fishing Area</figcaption>
+  <img src="{{ '/images/map_kauai_haena_cbsfa.png' | relative_url }}" alt="Map of Hāʻena CBSFA">
+  <figcaption>Hāʻena Community-Based Subsistence Fishing Area</figcaption>
 </figure>
 
-**Location:** Waters and submerged lands from the shoreline to a distance of one mile off the northwestern coast of Kaua'i, bounded by a straight line extending seaward at the boundary between Hā'ena State Park and Nā Pali State Park, and a straight line extending seaward at the boundary between Hā'ena and Wainiha.
+**Location:** Waters and submerged lands from the shoreline to a distance of one mile off the northwestern coast of Kauaʻi, bounded by a straight line extending seaward at the boundary between Hāʻena State Park and Nā Pali State Park, and a straight line extending seaward at the boundary between Hāʻena and Wainiha.
 
 ### Permitted
 - Pole spears 8 feet or less.
 - Up to two fishing poles per person, with no more than two hooks per line.
 - Throw nets.
-- Pa'ipa'i net or surround gill net fishing methods, as long as nets are deployed from shore or from a vessel less than 14 feet long; two people must be within five feet of the net at all times while deployed.
+- Paʻipaʻi net or surround gill net fishing methods, as long as nets are deployed from shore or from a vessel less than 14 feet long; two people must be within five feet of the net at all times while deployed.
 - Scoop nets (may not be used at night, between 6:00 pm and 6:00 am); limit of three specimens of marine life per day with scoop net.
 - Taking of limu by hand harvest only.
 - Vessels with prohibited gear onboard may transit through the CBSFA as long as they remain outside the Vessel Transit Boundary.
@@ -202,18 +202,18 @@ breadcrumb_parent_url: /areas/
 ### Bag Limits
 | Species | Limit |
 |---------|-------|
-| 'Opihi, pipipi, kūpe'e, and pūpū | 20 total combined per day (from the 'Opihi Management Area only) |
+| ʻOpihi, pipipi, kūpeʻe, and pūpū | 20 total combined per day (from the ʻOpihi Management Area only) |
 | Lobster | 2 per day; hand harvest only |
 | Urchins | 5 per species per day |
-| He'e | 2 per day; may be taken only by hand harvest or with a stick no more than two feet in length |
+| Heʻe | 2 per day; may be taken only by hand harvest or with a stick no more than two feet in length |
 
 ### Regulated Areas Within the CBSFA
 
-**'Opihi Management Area:**
-Waters and submerged lands from the shoreline to a distance of 300 feet, from the Hā'ena/Nā Pali boundary of the CBSFA to a line extending seaward at the western edge of Ke'e Beach.
-- Only place where 'opihi, pipipi, kūpe'e, and pūpū may be harvested, beginning December 1, 2017.
+**ʻOpihi Management Area:**
+Waters and submerged lands from the shoreline to a distance of 300 feet, from the Hāʻena/Nā Pali boundary of the CBSFA to a line extending seaward at the western edge of Keʻe Beach.
+- Only place where ʻopihi, pipipi, kūpeʻe, and pūpū may be harvested, beginning December 1, 2017.
 
-**Makua Pu'uhonua:**
+**Makua Puʻuhonua:**
 Waters and submerged lands of Makua lagoon; a four-sided area bounded by:
 - SW: 22°13'33.88" N, 159°33'42.41" W
 - NW: 22°13'41.15" N, 159°33'44.67" W
@@ -223,15 +223,15 @@ Waters and submerged lands of Makua lagoon; a four-sided area bounded by:
 No entry without a special activity permit (applies to vessels and individuals).
 
 **Vessel Transit Boundary:**
-Waters and submerged lands bounded by a line drawn along the CBSFA boundary from the shoreline between Hā'ena State Park and Nā Pali State Park (Point "a") at 22°12'42.50" N, 159°35'44.50" W to a point 1,000 feet offshore at 22°12'49.98" N, 159°35'51.79" W (VT1), eastward to a point 1,300 feet offshore at 22°13'35.57" N, 159°34'59.73" W (VT2), then to a point 2,300 feet offshore at 22°13'55.42" N, 159°33'42.00" W (VT3), then to a point 2,100 feet offshore at 22°13'48.84" N, 159°33'10.76" W (VT4), then along the CBSFA boundary to a point on the shoreline between Hā'ena and Wainiha (c) at 22°13'28.00" N, 159°33'13.50" W. This boundary does not affect general vessel operation or access to any area.
+Waters and submerged lands bounded by a line drawn along the CBSFA boundary from the shoreline between Hāʻena State Park and Nā Pali State Park (Point "a") at 22°12'42.50" N, 159°35'44.50" W to a point 1,000 feet offshore at 22°12'49.98" N, 159°35'51.79" W (VT1), eastward to a point 1,300 feet offshore at 22°13'35.57" N, 159°34'59.73" W (VT2), then to a point 2,300 feet offshore at 22°13'55.42" N, 159°33'42.00" W (VT3), then to a point 2,100 feet offshore at 22°13'48.84" N, 159°33'10.76" W (VT4), then along the CBSFA boundary to a point on the shoreline between Hāʻena and Wainiha (c) at 22°13'28.00" N, 159°33'13.50" W. This boundary does not affect general vessel operation or access to any area.
 
 ### Scientific Names of Regulated Species
 
 | Common Name | Scientific Name |
 |-------------|----------------|
-| Kūpe'e | *Nerita polita* |
+| Kūpeʻe | *Nerita polita* |
 | Lobster | family Palinuridae or Scyllaridae |
-| 'Opihi | genus *Cellana* |
+| ʻOpihi | genus *Cellana* |
 | Pipipi | *Theodoxus neglectus*, *Nerita picea*, *Neripteron neglectum* |
 | Pūpū | order Gastropoda or Bivalvia |
 | Urchin | class Echinoidea |

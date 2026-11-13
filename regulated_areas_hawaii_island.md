@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hawai'i Island — Regulated Areas"
+title: "Hawaiʻi Island — Regulated Areas"
 permalink: /areas/hawaii-island/
 show_breadcrumb: true
 breadcrumb_parent: Regulated Areas
@@ -16,7 +16,7 @@ breadcrumb_parent_url: /areas/
   <li><a href="#lapakahi-marine-life-conservation-district">Lapakahi MLCD</a></li>
   <li><a href="#wai%C4%81kea-public-fishing-area">Waiākea PFA (Hilo)</a></li>
   <li><a href="#hilo-bay-wailoa-river-and-wailuku-river">Hilo Bay &amp; Rivers</a></li>
-  <li><a href="#west-hawai%CA%BBi-regional-fishery-management-area">West Hawai'i Regional FMA</a></li>
+  <li><a href="#west-hawai%CA%BBi-regional-fishery-management-area">West Hawaiʻi Regional FMA</a></li>
   <li><a href="#puak%C5%8D-bay-and-puak%C5%8D-reef-fisheries-management-area">Puakō Bay FMA</a></li>
   <li><a href="#kona-coast-fisheries-management-area">Kona Coast FMA</a></li>
   <li><a href="#kiholo-bay-fisheries-management-area">Kiholo Bay FMA</a></li>
@@ -24,11 +24,11 @@ breadcrumb_parent_url: /areas/
   <li><a href="#kailua-bay-fisheries-management-area">Kailua Bay FMA</a></li>
   <li><a href="#keauhou-bay-fisheries-management-area">Keauhou Bay FMA</a></li>
   <li><a href="#south-kona-miloli%CA%BBi">South Kona</a></li>
-  <li><a href="#miloli%CA%BBi-community-based-subsistence-fishing-area-cbsfa">Miloli'i CBSFA</a></li>
+  <li><a href="#miloli%CA%BBi-community-based-subsistence-fishing-area-cbsfa">Miloliʻi CBSFA</a></li>
 </ul>
 </div>
 
-# Hawai'i Island — Regulated Fishing Areas
+# Hawaiʻi Island — Regulated Fishing Areas
 
 ---
 
@@ -39,10 +39,10 @@ breadcrumb_parent_url: /areas/
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
-**Location:** Offshore of the Kealakekua Bay Historical State Park on the western coast of Hawai'i Island, from the high-water mark seaward to a line from Cook Point to Manini Beach Point. A line from Cook Point to the north end of Nāpō'opo'o Beach divides the District into **Subzone A** (north) and **Subzone B** (south). The Division of Boating and Ocean Recreation has also established provisions relating to boating, anchoring, and mooring within the MLCD.
+**Location:** Offshore of the Kealakekua Bay Historical State Park on the western coast of Hawaiʻi Island, from the high-water mark seaward to a line from Cook Point to Manini Beach Point. A line from Cook Point to the north end of Nāpōʻopoʻo Beach divides the District into **Subzone A** (north) and **Subzone B** (south). The Division of Boating and Ocean Recreation has also established provisions relating to boating, anchoring, and mooring within the MLCD.
 
 ### Permitted
-- Within **Subzone B only**: fish for, take, or possess any finfish with hook-and-line and thrownet; any legal fishing device or method except traps may be used for taking akule, 'opelu, and crustaceans.
+- Within **Subzone B only**: fish for, take, or possess any finfish with hook-and-line and thrownet; any legal fishing device or method except traps may be used for taking akule, ʻopelu, and crustaceans.
 - Possess in the water any knife, shark billy, bang stick, powerhead, or carbon dioxide injector.
 - With a permit, engage in activities otherwise prohibited for scientific, propagation, or other purposes.
 
@@ -63,14 +63,14 @@ breadcrumb_parent_url: /areas/
 **Location:** (1) Waters offshore of the Old Kona Airport to the Kailua Lighthouse, bounded by a straight line from Point "A" seaward 500 yards, to a straight line from the Kailua Lighthouse seaward 500 yards; and (2) a "No Boating Zone" within the MLCD bounded by a straight line from Keahuolū Point to the southwestern corner of private property at Point "B".
 
 ### Permitted
-- Fish for, take, possess, or remove akule by handline at night, and 'ōpelu by lift or 'ōpelu net method using bait or chum for commercial or home consumption.
+- Fish for, take, possess, or remove akule by handline at night, and ʻōpelu by lift or ʻōpelu net method using bait or chum for commercial or home consumption.
 - Fish for, take, possess, or remove any finfish for home consumption by throw net or pole-and-line (without reel) with bait from shore.
-- Collect wana, wana halula, and hā'uke'uke with hand tool (no SCUBA gear) from **June 1 to October 1**.
+- Collect wana, wana halula, and hāʻukeʻuke with hand tool (no SCUBA gear) from **June 1 to October 1**.
 - Use the state mooring not longer than three hours per boat each day on a first-come, first-served basis for non-commercial use.
 - Commercial dive/tour operations may be conducted at the mooring and from shore with a permit.
 
 ### Prohibited
-- Fish for, take, injure, kill, possess, or remove any marine life, including live sea shell, 'opihi, live coral, algae, or limu, or their eggs, except as permitted above.
+- Fish for, take, injure, kill, possess, or remove any marine life, including live sea shell, ʻopihi, live coral, algae, or limu, or their eggs, except as permitted above.
 - Take or alter any sand, shell, coral, rock, or other geological feature or specimen; or possess in the water any device used for taking or altering marine life or geological features.
 - Feed or introduce any food material, substance, or device as an attractant, directly to or in the vicinity of any aquatic organism (except for the purpose of catching and removing that organism as permitted).
 - Anchor a watercraft in the MLCD, or operate a motorboat or other motor-powered watercraft within the "No Boating Zone" except for emergency or enforcement purposes.
@@ -85,7 +85,7 @@ breadcrumb_parent_url: /areas/
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
-**Location:** Offshore of Waialea Bay along the northwestern coast of Hawai'i Island, from the high-water mark seaward to a line from Kānekanaka Point to the point immediately north of 'Ōhai Point.
+**Location:** Offshore of Waialea Bay along the northwestern coast of Hawaiʻi Island, from the high-water mark seaward to a line from Kānekanaka Point to the point immediately north of ʻŌhai Point.
 
 ### Permitted
 - Have or possess any fishing pole and hook-and-line, and fish for, take, or possess any finfish using such gear.
@@ -106,10 +106,10 @@ breadcrumb_parent_url: /areas/
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
-**Location:** Encompasses **Subzone A** (Koai'e Cove) and **Subzone B**, the adjacent shoreline area extending approximately 500 feet offshore of the Lapakahi State Historical Park on the northwestern coast of Hawai'i Island.
+**Location:** Encompasses **Subzone A** (Koaiʻe Cove) and **Subzone B**, the adjacent shoreline area extending approximately 500 feet offshore of the Lapakahi State Historical Park on the northwestern coast of Hawaiʻi Island.
 
 ### Permitted
-- Within **Subzone B only**: fish for, take, or possess any 'ōpelu by lift or 'ōpelu net; any finfish or crustacean by hook-and-line or thrownet.
+- Within **Subzone B only**: fish for, take, or possess any ʻōpelu by lift or ʻōpelu net; any finfish or crustacean by hook-and-line or thrownet.
 - Possess in the water any knife, shark billy, bang stick, powerhead, or carbon dioxide injector.
 - With a permit, engage in activities otherwise prohibited for scientific, propagation, or other purposes.
 
@@ -155,12 +155,12 @@ breadcrumb_parent_url: /areas/
 </figure>
 
 **Location:**
-- **Hilo Harbor** — That portion of the bay in Hilo bounded seaward by the breakwater, and a line from the tip of the breakwater southwestward to Āle'ale'a Point.
+- **Hilo Harbor** — That portion of the bay in Hilo bounded seaward by the breakwater, and a line from the tip of the breakwater southwestward to Āleʻaleʻa Point.
 - **Wailoa River** — That part of Wailoa River bounded by a line drawn across the mouth of the river and the footbridge at the mouth of Waiākea Pond, including Waiolama Canal upstream to the highest wash of the tidal water.
 - **Wailuku River** — That part of Wailuku River between the Māmalahoa Highway bridge and Wainaku Avenue bridge.
 
 ### Permitted
-- Use of thrownets, 'opae nets not exceeding three feet in any dimension, and nehu nets not longer than fifty feet to take nehu for family consumption or bait purposes.
+- Use of thrownets, ʻopae nets not exceeding three feet in any dimension, and nehu nets not longer than fifty feet to take nehu for family consumption or bait purposes.
 - Taking of crabs with baited lines (a dip net may be used to land crabs lured to bait); or with not more than five crab nets not exceeding two feet in longest straight-line dimension and stretched mesh not less than two inches, provided nets are attended at all times.
 - Commercial Marine licensees with a Bait License may take baitfishes.
 - Licensed pond owners or operators may take young mullet (pua) or other small fish for stocking their fishpond (except in Wailoa River).
@@ -168,7 +168,7 @@ breadcrumb_parent_url: /areas/
 ### Prohibited
 - Take or possess any aquatic life in violation of a season, minimum size, or other law, except pua as noted above.
 - Use nets, except as indicated in permitted activities above.
-- Take or possess more than 20 fish of mullet, moi, and all species of ulua (including pāpio and 'omilu); bag limit shall not include more than 15 moi or 10 mullet per day.
+- Take or possess more than 20 fish of mullet, moi, and all species of ulua (including pāpio and ʻomilu); bag limit shall not include more than 15 moi or 10 mullet per day.
 - Fish with more than two poles with one line each, or two handlines, or with more than two hooks or lures per line.
 - Use traps.
 - Spear any crab; take or possess any crab with external eggs, with missing or mutilated abdomen or tail, or with a puncture wound.
@@ -178,44 +178,44 @@ breadcrumb_parent_url: /areas/
 
 ---
 
-## West Hawai'i Regional Fishery Management Area
+## West Hawaiʻi Regional Fishery Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_west_hawaii_fma_overview.png' | relative_url }}" alt="Overview map of West Hawai'i Regional FMA">
-  <figcaption>West Hawai'i Regional FMA — extends from South Point to 'Ūpolu Point, including all MLCDs, FRAs, and NRAs along the Kona Coast</figcaption>
+  <img src="{{ '/images/map_hawaii_west_hawaii_fma_overview.png' | relative_url }}" alt="Overview map of West Hawaiʻi Regional FMA">
+  <figcaption>West Hawaiʻi Regional FMA — extends from South Point to ʻŪpolu Point, including all MLCDs, FRAs, and NRAs along the Kona Coast</figcaption>
 </figure>
 
-**Location:** Extends along the west coast of Hawai'i Island from Ka Lae, Ka'ū (South Point) to 'Ūpolu Point, North Kohala, and from the high-water mark on shore seaward to the limit of the State's management authority. Includes Fish Replenishment Areas (FRAs), Netting Restricted Areas (NRAs), Marine Reserve, and all Marine Life Conservation Districts and FMAs along the West Hawai'i shoreline.
+**Location:** Extends along the west coast of Hawaiʻi Island from Ka Lae, Kaʻū (South Point) to ʻŪpolu Point, North Kohala, and from the high-water mark on shore seaward to the limit of the State's management authority. Includes Fish Replenishment Areas (FRAs), Netting Restricted Areas (NRAs), Marine Reserve, and all Marine Life Conservation Districts and FMAs along the West Hawaiʻi shoreline.
 
 ### Permitted
 - All types of fishing, except as prohibited below.
 
-### Prohibited in Ka'ūpūlehu Marine Reserve
-- Take any aquatic life, except the following may be taken **seaward of the 20-fathom depth contour** by hook-and-line: 'ōpakapaka, kalekale, lehi, gindai, onaga, ehu, hāpu'upu'u, uku, ta'ape, roi, toau, nabeta, aku, ahi, tombo, a'u, ono, and mahimahi; also Kona crab by Kona crab net.
+### Prohibited in Kaʻūpūlehu Marine Reserve
+- Take any aquatic life, except the following may be taken **seaward of the 20-fathom depth contour** by hook-and-line: ʻōpakapaka, kalekale, lehi, gindai, onaga, ehu, hāpuʻupuʻu, uku, taʻape, roi, toau, nabeta, aku, ahi, tombo, aʻu, ono, and mahimahi; also Kona crab by Kona crab net.
 - Possess any marine life except as indicated above.
 - Possess or use any fishing gear other than hook-and-line and/or Kona crab net.
 - Deploy any fishing gear shoreward of the 20-fathom depth contour.
 
 ### Prohibited in Selected Areas
-- Fish feeding within any Fish Replenishment Area (FRA), Netting Restricted Area (NRA), Marine Reserve, or any other West Hawai'i Regional managed area.
+- Fish feeding within any Fish Replenishment Area (FRA), Netting Restricted Area (NRA), Marine Reserve, or any other West Hawaiʻi Regional managed area.
 - While within any FRA, MLCD, or FMA (other than Kiholo Bay FMA):
   - Collect aquatic life for aquarium purposes.
   - Possess aquarium collecting gear, or take or possess any aquatic life for aquarium purposes, except aboard a vessel in active transit (no collecting gear in the water during transit; boats adrift, anchored, or moored are not considered in transit).
 
 ### Lay Net Fishing Restrictions (FRAs and NRAs)
-Lay net fishing within the following FRAs and NRAs is **prohibited**: Puakō-'Anaeho'omalu FRA, Kikaua Point-Mākole'a NRA (Kekaha Kai State Park), Nenue Point (Red Hill FRA)-Kealakekua Bay NRA, Hanamalo Point-Kānewa'a Point NRA, Kanonohe-Kalīpoa NRA, Kaloko-Honokōhau FRA.
+Lay net fishing within the following FRAs and NRAs is **prohibited**: Puakō-ʻAnaehoʻomalu FRA, Kikaua Point-Mākoleʻa NRA (Kekaha Kai State Park), Nenue Point (Red Hill FRA)-Kealakekua Bay NRA, Hanamalo Point-Kānewaʻa Point NRA, Kanonohe-Kalīpoa NRA, Kaloko-Honokōhau FRA.
 
 Exception: Lay net fishing is allowed in Kaloko-Honokōhau FRA using a locally constructed, handmade lay net of natural fibers, in accordance with other lay net restrictions.
 
-### Prohibited Within the West Hawai'i Regional FMA
-- Take or possess any pāku'iku'i.
+### Prohibited Within the West Hawaiʻi Regional FMA
+- Take or possess any pākuʻikuʻi.
 - Take, kill, possess, sell, or offer for sale any specimen of: Hawaiian stingray, broad stingray, pelagic stingray, spotted eagle ray, blacktip reef shark, gray reef shark, whitetip reef shark, tiger shark, whale shark, horned helmet, and Triton's trumpet.
 - Possess more than five yellow tang larger than 4.5 inches total length, or more than five yellow tang smaller than 2 inches total length.
 - Engage in SCUBA spearfishing, possess both SCUBA gear and a spear at the same time, or possess SCUBA gear and any specimen of speared aquatic life at the same time.
 - Possess aquarium collecting gear, or take or possess any specimen of aquatic life for aquarium purposes between sunset and sunrise; without a valid aquarium permit; or while on a vessel that does not conform to registration requirements.
 - Possess or use any net or container underwater to capture or hold aquatic life alive for aquarium purposes, which is not labeled with the commercial marine license number(s) of the person(s) owning, possessing, or using the equipment.
 
-### Lay Net Fishing (West Hawai'i FMA — General)
+### Lay Net Fishing (West Hawaiʻi FMA — General)
 **Prohibited:**
 - Use of a lay net not marked by buoys as specified and legibly displaying the permit number of the person using the net.
 - Use of a lay net within 1,200 feet of another lay net (except two joined nets).
@@ -237,7 +237,7 @@ Exception: Lay net fishing is allowed in Kaloko-Honokōhau FRA using a locally c
 Persons using a vessel or float may use a total maximum of 250 feet of lay net, provided that at least two people are present and associated with the same vessel or float.
 
 ### Aquarium Collecting Permits and Vessel Registration
-- A West Hawai'i aquarium permit is required to engage in aquarium collecting activities.
+- A West Hawaiʻi aquarium permit is required to engage in aquarium collecting activities.
 - Holders of an aquarium permit may only take certain species; there are daily bag limits for achilles tang and certain sized kole. A copy of the "white list" and other restrictions may be obtained at the Kona DAR office or by downloading the administrative rule.
 
 **All aquarium-fishing vessels shall:**
@@ -275,19 +275,19 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
   <figcaption>Kona Coast FMA — four zones: Wawāloli, Papawai Bay, Kailua Bay, and Red Hill</figcaption>
 </figure>
 
-**Location:** Four FMA Zones on the southwestern portion of Hawai'i Island, each bounded by two lines extending seaward at right angles from shore and marked by signs on shore. The seaward boundary is at a depth of **100 fathoms (600 ft)**:
+**Location:** Four FMA Zones on the southwestern portion of Hawaiʻi Island, each bounded by two lines extending seaward at right angles from shore and marked by signs on shore. The seaward boundary is at a depth of **100 fathoms (600 ft)**:
 
-- **(a) "Wawāloli Zone"** — From south of Wawāloli Beach to south of Wāwahiwa'a Point
+- **(a) "Wawāloli Zone"** — From south of Wawāloli Beach to south of Wāwahiwaʻa Point
 - **(b) "Papawai Bay Zone"** — From Keahuolu Point to the northwestern end of the runway of the Old Kona Airport
 - **(c) "Kailua Bay Zone"** — From Kukailimoku Point near the Kailua lighthouse to the former swimming pool at the Kona Inn Shopping Village
-- **(d) "Red Hill Zone"** — From Pu'u Ōhau ("Red Hill") to Onouli
+- **(d) "Red Hill Zone"** — From Puʻu Ōhau ("Red Hill") to Onouli
 
 ### Permitted
 - Catch fish in the Zones with legal fishing gear for personal consumption.
 
 ### Prohibited
 - Collect any aquarium fish within the Zones.
-- Engage in fish feeding within the Zones, except for 'ōpelu fishing.
+- Engage in fish feeding within the Zones, except for ʻōpelu fishing.
 
 ---
 
@@ -295,10 +295,10 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 <figure class="map-fig">
   <img src="{{ '/images/map_hawaii_kiholo_bay_fma.png' | relative_url }}" alt="Map of Kiholo Bay FMA">
-  <figcaption>Kiholo Bay FMA — includes Wainānāli'i Pond (excludes Luahinewai Pond)</figcaption>
+  <figcaption>Kiholo Bay FMA — includes Wainānāliʻi Pond (excludes Luahinewai Pond)</figcaption>
 </figure>
 
-**Location:** That part of Kiholo Bay enclosed by a straight line drawn from Nāwaikūlua Point to Hou Point, including the lagoon known as Wainānāli'i Pond, but not Luahinewai Pond.
+**Location:** That part of Kiholo Bay enclosed by a straight line drawn from Nāwaikūlua Point to Hou Point, including the lagoon known as Wainānāliʻi Pond, but not Luahinewai Pond.
 
 ### Permitted
 - Aquarium fish permittees may use small-meshed nets other than thrownets, provided the person is within visual range of the net at all times.
@@ -316,7 +316,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
   <figcaption>Kawaihae Harbor — Zone A and Zone B fishing rules</figcaption>
 </figure>
 
-**Location:** Kawaihae, South Kohala, on the northwest coast of Hawai'i Island. Restrictions apply to the south small boat basin.
+**Location:** Kawaihae, South Kohala, on the northwest coast of Hawaiʻi Island. Restrictions apply to the south small boat basin.
 
 ### Permitted
 - Take any legal-size fish in season with not more than two lines, or two poles or rods and lines.
@@ -328,7 +328,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ### Prohibited
 - Snag or attempt to snag any fish.
-- Herd, chase, or pa'ipa'i fish out of Zone A by swimming, diving, or from a boat, resulting in fish being taken by net.
+- Herd, chase, or paʻipaʻi fish out of Zone A by swimming, diving, or from a boat, resulting in fish being taken by net.
 - Otherwise fish for or take aquatic life, except as indicated in permitted activities above.
 - Engage or attempt to engage in fish feeding.
 
@@ -341,7 +341,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
-**Location:** That portion of Kailua Bay enclosed by a straight line drawn from Kukailimoku Point to the seawall of the Royal Kona Resort. A line from the northern edge of the channel at "Thurston Point" to the corner ("Wīha Point") south of Hulihe'e Palace and north of the former Kona Inn Hotel separates **Zone A** (northwestern portion) from the seaward **Zone B**.
+**Location:** That portion of Kailua Bay enclosed by a straight line drawn from Kukailimoku Point to the seawall of the Royal Kona Resort. A line from the northern edge of the channel at "Thurston Point" to the corner ("Wīha Point") south of Huliheʻe Palace and north of the former Kona Inn Hotel separates **Zone A** (northwestern portion) from the seaward **Zone B**.
 
 ### Permitted
 - Take any legal-size fish in season with not more than two lines, or two rods and lines, and with not more than two hooks each.
@@ -355,7 +355,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ### Prohibited
 - Snag or attempt to snag any fish.
-- Herd, chase, or pa'ipa'i fish out of Zone A by swimming, diving, or from a boat, resulting in fish being taken by net.
+- Herd, chase, or paʻipaʻi fish out of Zone A by swimming, diving, or from a boat, resulting in fish being taken by net.
 - Otherwise fish for or take aquatic life, except as indicated in permitted activities above.
 - Engage or attempt to engage in fish feeding.
 
@@ -368,7 +368,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
-**Location:** That portion of the bay bounded by a straight line drawn from Haiku'ua Point to Kaukala'ela'e Point.
+**Location:** That portion of the bay bounded by a straight line drawn from Haikuʻua Point to Kaukalaʻelaʻe Point.
 
 ### Permitted
 - Take any legal-size fish in season with not more than two lines at the same time.
@@ -383,45 +383,45 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ---
 
-## South Kona (Miloli'i)
+## South Kona (Miloliʻi)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_south_kona_boundaries.png' | relative_url }}" alt="Map of South Kona 'ōpelu bait restriction boundaries">
-  <figcaption>South Kona — Ki'ilae-Kēōkea to Kapua-Kaulanamauna boundaries</figcaption>
+  <img src="{{ '/images/map_hawaii_south_kona_boundaries.png' | relative_url }}" alt="Map of South Kona ʻōpelu bait restriction boundaries">
+  <figcaption>South Kona — Kiʻilae-Kēōkea to Kapua-Kaulanamauna boundaries</figcaption>
 </figure>
 
-**Location:** Waters off the coast of South Kona between the Ki'ilae-Kēōkea boundary and the Kapua-Kaulanamauna boundary.
+**Location:** Waters off the coast of South Kona between the Kiʻilae-Kēōkea boundary and the Kapua-Kaulanamauna boundary.
 
 ### Prohibited
-- Fish for or take 'ōpelu with fish or animal bait, except with hook and line.
+- Fish for or take ʻōpelu with fish or animal bait, except with hook and line.
 
 ---
 
-## Miloli'i Community-Based Subsistence Fishing Area (CBSFA)
+## Miloliʻi Community-Based Subsistence Fishing Area (CBSFA)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_miloii_cbsfa.png' | relative_url }}" alt="Map of Miloli'i CBSFA">
-  <figcaption>Miloli'i CBSFA — southwest Hawai'i Island, from Pa'akai Point to Kaunā Point</figcaption>
+  <img src="{{ '/images/map_hawaii_miloii_cbsfa.png' | relative_url }}" alt="Map of Miloliʻi CBSFA">
+  <figcaption>Miloliʻi CBSFA — southwest Hawaiʻi Island, from Paʻakai Point to Kaunā Point</figcaption>
 </figure>
 
-**Location:** Waters and submerged lands from the shoreline to the 100-fathom depth contour on the southwest coast of Hawai'i Island, from Pa'akai Point at Kīpāhoehoe in the north to Kaunā Point in the south. Contains numerous sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.10).
+**Location:** Waters and submerged lands from the shoreline to the 100-fathom depth contour on the southwest coast of Hawaiʻi Island, from Paʻakai Point at Kīpāhoehoe in the north to Kaunā Point in the south. Contains numerous sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.10).
 
 ### Sub-Zones and Shoreline Boundaries
 
 | Sub-Zone | Boundaries |
 |----------|------------|
-| 'Ōpelu Traditional Management Zone | From Nāpōhakuloloa ("2-Stone") in the north to Kāki'o Point (Kaupō) in the south |
-| Pu'uhonua Pāpā | From Lae o Kamimi in Pāpā Bay in the north to Makahiki Point in the south |
-| Pāku'iku'i Rest Area | From Makahiki Point in the north to Kapulau (Honomalino Point) in the south |
-| Puakai'a Miloli'i | From Kapukawa'aiki (Miloli'i Lighthouse) in the north to Lae Loa in the south |
-| Pu'uhonua Honomalino | From Kapulau (Honomalino Point) in the north to Pūke'oke'o (Pōhaku Ke'oke'o) in the south |
-| Pu'uhonua Kapu'a | From Kalapili (Okoe Bay) in the north to Kāki'o Point (Kaupō) in the south |
-| Pu'uhonua Manukā | From Kamoi Point (north point of Manukā Bay) in the north to the south point of Manukā Bay |
+| ʻŌpelu Traditional Management Zone | From Nāpōhakuloloa ("2-Stone") in the north to Kākiʻo Point (Kaupō) in the south |
+| Puʻuhonua Pāpā | From Lae o Kamimi in Pāpā Bay in the north to Makahiki Point in the south |
+| Pākuʻikuʻi Rest Area | From Makahiki Point in the north to Kapulau (Honomalino Point) in the south |
+| Puakaiʻa Miloliʻi | From Kapukawaʻaiki (Miloliʻi Lighthouse) in the north to Lae Loa in the south |
+| Puʻuhonua Honomalino | From Kapulau (Honomalino Point) in the north to Pūkeʻokeʻo (Pōhaku Keʻokeʻo) in the south |
+| Puʻuhonua Kapuʻa | From Kalapili (Okoe Bay) in the north to Kākiʻo Point (Kaupō) in the south |
+| Puʻuhonua Manukā | From Kamoi Point (north point of Manukā Bay) in the north to the south point of Manukā Bay |
 
 ### Permitted
 - Possess prohibited gear and restricted species while onboard a vessel in active transit, provided no prohibited gear is in the water.
-- Fish outside the four Pu'uhonua except as indicated in prohibited activities below.
-- **Within the four Pu'uhonua:**
+- Fish outside the four Puʻuhonua except as indicated in prohibited activities below.
+- **Within the four Puʻuhonua:**
   - Fish from shore using throw net, scoop net, and hook-and-line
   - Fish from a vessel using hook-and-line
   - Fish using a pole spear
@@ -429,41 +429,41 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ### Prohibited (Statewide)
 - Aquarium fishing.
-- Take or possess female 'a'ama crab with eggs.
+- Take or possess female ʻaʻama crab with eggs.
 - Take or possess kole during **March through June**. From July through February: bag limit 20 per person per day, minimum size 5 inches.
-- Take or possess 'opihi kō'ele.
-- Take or possess more 'opihi makaiauli and 'opihi 'ālinalina (with shell) than can fit in a one-gallon size bag per person per day.
-- Take or possess pāku'iku'i before **July 1, 2027**. Beginning July 1, 2027: bag limit 5 per person per day, minimum size 5 inches.
+- Take or possess ʻopihi kōʻele.
+- Take or possess more ʻopihi makaiauli and ʻopihi ʻālinalina (with shell) than can fit in a one-gallon size bag per person per day.
+- Take or possess pākuʻikuʻi before **July 1, 2027**. Beginning July 1, 2027: bag limit 5 per person per day, minimum size 5 inches.
 - Spear uhu at night using any gear type.
-- Take or possess uhu 'ele'ele or uhu uliuli.
-- Take or possess uhu 'ahu'ula or uhu pālukaluka during **March through May**. From June through February: minimum size 14 inches, maximum size 20 inches, bag limit 1 fish per person per day.
+- Take or possess uhu ʻeleʻele or uhu uliuli.
+- Take or possess uhu ʻahuʻula or uhu pālukaluka during **March through May**. From June through February: minimum size 14 inches, maximum size 20 inches, bag limit 1 fish per person per day.
 - Take or possess more than three other uhu per person per day; only one may be a terminal-phase uhu.
 - Take or possess more than two ula per person per day.
-- Take or possess any 'ū'ū from **April through June**.
+- Take or possess any ʻūʻū from **April through June**.
 
 ### Prohibited Within Selected Areas
 
-**'Ōpelu Traditional Management Zone:**
-- Take any 'ōpelu except by hook-and-line from **February through August**.
+**ʻŌpelu Traditional Management Zone:**
+- Take any ʻōpelu except by hook-and-line from **February through August**.
 
-**The four Pu'uhonua:**
-- Harvest any 'opihi.
+**The four Puʻuhonua:**
+- Harvest any ʻopihi.
 - Fish using any gear or method other than indicated in "Permitted" above.
 
-**Pāku'iku'i Rest Area:**
-- Take or possess any pāku'iku'i.
+**Pākuʻikuʻi Rest Area:**
+- Take or possess any pākuʻikuʻi.
 
-**Puakai'a Miloli'i:**
+**Puakaiʻa Miloliʻi:**
 - Use or possess any spear except pole spear.
-- Spear any uhu, pāku'iku'i, weke 'ula, moano kea, or 'ū'ū.
+- Spear any uhu, pākuʻikuʻi, weke ʻula, moano kea, or ʻūʻū.
 - Use a lay net at night.
 
 ### Scientific Names of Regulated Species
 
 | Hawaiian Name | Scientific Name |
 |---------------|----------------|
-| 'A'ama crab | *Grapsus tenuicrustatus* |
-| 'Opihi 'ālinalina | *Cellana sandwicensis* |
-| 'Opihi kō'ele | *C. talcosa* |
-| 'Opihi makaiauli | *C. exarata* |
-| 'Ū'ū | genus *Myripristis* |
+| ʻAʻama crab | *Grapsus tenuicrustatus* |
+| ʻOpihi ʻālinalina | *Cellana sandwicensis* |
+| ʻOpihi kōʻele | *C. talcosa* |
+| ʻOpihi makaiauli | *C. exarata* |
+| ʻŪʻū | genus *Myripristis* |

@@ -47,8 +47,8 @@ title: Home
 
 | Island | DAR Office | Phone |
 |--------|-----------|-------|
-| O'ahu | 1151 Punchbowl St., Rm. 330, Honolulu | 808-587-0100 |
-| Kaua'i | 3060 'Eiwa St., Rm. 306, Līhu'e | 808-274-3344 |
-| East Hawai'i | 75 Aupuni St., Rm. 204, Hilo | 808-961-9530 |
-| West Hawai'i | Honokōhau Marina, 74-380B Kealakehe Pkwy., Kailua-Kona | 808-327-6226 |
+| Oʻahu | 1151 Punchbowl St., Rm. 330, Honolulu | 808-587-0100 |
+| Kauaʻi | 3060 ʻEiwa St., Rm. 306, Līhuʻe | 808-274-3344 |
+| East Hawaiʻi | 75 Aupuni St., Rm. 204, Hilo | 808-961-9530 |
+| West Hawaiʻi | Honokōhau Marina, 74-380B Kealakehe Pkwy., Kailua-Kona | 808-327-6226 |
 | Maui County | 130 Mahalani St., Wailuku | 808-243-5294 |

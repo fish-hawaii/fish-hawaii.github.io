@@ -13,7 +13,7 @@ show_breadcrumb: true
   <li><a href="#bottom-fishing-deep-7">Bottom Fishing (Deep 7)</a></li>
   <li><a href="#longline-fishing">Longline Fishing</a></li>
   <li><a href="#dealers">Dealers</a></li>
-  <li><a href="#oahu-aquarium-fishing">O'ahu Aquarium Fishing</a></li>
+  <li><a href="#oʻahu-aquarium-fishing">Oʻahu Aquarium Fishing</a></li>
   <li><a href="#special-activities">Special Activity Permits</a></li>
 </ul>
 </div>
@@ -87,7 +87,7 @@ The department will issue a commercial marine vessel license to any qualified in
 - A commercial marine vessel license is valid from the date of issuance and expires on the expiration date of the licensee's commercial marine license.
 - A license is valid only for a specific vessel and is nontransferable.
 - A qualified individual may obtain and possess more than one commercial marine vessel license at a time.
-- **Longline vessels:** The commercial marine vessel licensee shall file an annual report with the department containing information about all crew members who worked aboard the longline vessel during the license period (identity, nationality, arrival date in Hawai'i, departure date, and any other information the department may require). This report must be submitted within **thirty days** of the end of the license period.
+- **Longline vessels:** The commercial marine vessel licensee shall file an annual report with the department containing information about all crew members who worked aboard the longline vessel during the license period (identity, nationality, arrival date in Hawaiʻi, departure date, and any other information the department may require). This report must be submitted within **thirty days** of the end of the license period.
 - **Charter fishing vessels:** The commercial marine vessel license satisfies the commercial marine license requirement for all crew members. It does not exempt charter fishing vessel passengers or customers from the nonresident recreational marine fishing license requirement. A "passenger" is any individual on board who is not a member of the vessel's crew.
 - If a vessel is lost, destroyed, stolen, sold, transferred, or otherwise no longer in the possession or control of the licensee, the licensee shall **immediately notify the department** and the license shall be terminated.
 - The license shall be **kept aboard the vessel at all times** while participating in commercial fishing activities and shall be made available for inspection upon demand.
@@ -118,7 +118,7 @@ The department will issue a commercial marine vessel license to any qualified in
 
 ## Bottom Fishing ("Deep 7")
 
-**Covered species:** 'ula'ula koa'e (onaga), 'ula'ula (ehu), kalekale, 'ōpakapaka, 'ūkīkiki (gindai), hāpu'u, and lehi.
+**Covered species:** ʻulaʻula koaʻe (onaga), ʻulaʻula (ehu), kalekale, ʻōpakapaka, ʻūkīkiki (gindai), hāpuʻu, and lehi.
 
 ### Closed Season
 Unlawful to fish for, possess, or sell bottomfish species listed above during the announced closed season, except by permit.
@@ -132,7 +132,7 @@ Unlawful to take bottomfish with any trap, trawl, bottomfish longline, or net. U
 Commercial fishers must report all "Deep 7" bottomfish catches within **five days** after the end of a trip.
 
 ### Minimum Size
-Onaga and 'ōpakapaka minimum size for sale: **1 pound**.
+Onaga and ʻōpakapaka minimum size for sale: **1 pound**.
 
 ### Non-Commercial Bag Limit
 Unlawful for any person without a current commercial marine license to take or possess more than a combined total of **five bottomfish per day**.
@@ -169,13 +169,13 @@ All vessels fishing for or possessing bottomfish must:
 
 ---
 
-## O'ahu Aquarium Fishing
+## Oʻahu Aquarium Fishing
 
-Unlawful, within **three nautical miles of the O'ahu shoreline**, while possessing a small mesh net authorized under a commercial or recreational aquarium fish permit:
+Unlawful, within **three nautical miles of the Oʻahu shoreline**, while possessing a small mesh net authorized under a commercial or recreational aquarium fish permit:
 - Possess a small mesh net more than **30 feet long or six feet high**, or join more than two such nets together for a combined length of more than **60 feet**.
 - Take or possess any ornate butterflyfish, oval butterflyfish, or reticulated butterflyfish.
 
-Unlawful, within three nautical miles of the O'ahu shoreline, while possessing a small mesh net authorized under a **commercial aquarium fish permit**:
+Unlawful, within three nautical miles of the Oʻahu shoreline, while possessing a small mesh net authorized under a **commercial aquarium fish permit**:
 - Possess a small mesh net and take or possess a daily bag limit of more than:
   - 100 yellow tang, 75 kole, 50 Potter's angel, 50 naso tang, 25 Moorish idol, or 10 Achilles tang
   - Six of any of the following: yellow tang less than 1½ inches in length, yellow tang more than 5 inches in length, kole more than 5 inches in length, cleaner wrasse of any size

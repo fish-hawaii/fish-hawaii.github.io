@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search | Hawaii Fishing Regulations</title>
+  <!-- Begin Jekyll SEO tag v2.9.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Search" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plain-language guide to Hawaii Division of Aquatic Resources fishing regulations — species limits, gear restrictions, regulated areas, and more." />
+<meta name="twitter:description" property="og:description" content="A plain-language guide to Hawaii Division of Aquatic Resources fishing regulations — species limits, gear restrictions, regulated areas, and more." />
+<link rel="canonical" href="https://fish-hawaii.github.io/search/" />
+<meta property="og:url" content="https://fish-hawaii.github.io/search/" />
+<meta property="og:site_name" content="Hawaii Fishing Regulations" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Search" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plain-language guide to Hawaii Division of Aquatic Resources fishing regulations — species limits, gear restrictions, regulated areas, and more.","headline":"Search","url":"https://fish-hawaii.github.io/search/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a href="/" class="site-title">
+        <span class="accent">Hawaii</span> Fishing Regulations
+      </a>
+      <nav class="site-nav">
+        <a href="/species/">Species</a>
+        <a href="/gear/">Gear</a>
+        <a href="/safety/">Safety</a>
+        <a href="/licenses/">Licenses</a>
+        <a href="/areas/">Regulated Areas</a>
+        <a href="/search/" class="active">Search</a>
+        <a href="/ask/">Ask AI</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+  <h1>Search Regulations</h1>
+  <p style="color:var(--muted);margin-top:-.5rem;">Keyword search across all regulation content.</p>
+
+  <div class="search-wrap">
+    <input
+      type="search"
+      id="search-input"
+      class="search-input"
+      placeholder="e.g. Kahului Harbor, lobster, throw net…"
+      autofocus
+      autocomplete="off"
+    >
+  </div>
+
+  <div id="search-status" class="search-status" aria-live="polite"></div>
+  <div id="search-results"></div>
+</div>
+
+<script src="https://unpkg.com/lunr@2.3.9/lunr.min.js" integrity="sha384-203J0SNzyqHby3iU6hzvzltrWi/M41wOP5Gu+BiJMz5nwKykbkUx8Kp7iti0Lpli" crossorigin="anonymous"></script>
+<script>
+(function () {
+  var input   = document.getElementById('search-input');
+  var status  = document.getElementById('search-status');
+  var results = document.getElementById('search-results');
+
+  var index, store;
+
+  // Drop ʻokina and apostrophes so "Oʻahu", "O'ahu" and "Oahu" all match
+  function stripOkina(token) {
+    return token.update(function (s) { return s.replace(/[ʻ'‘’]/g, ''); });
+  }
+  lunr.Pipeline.registerFunction(stripOkina, 'stripOkina');
+
+  fetch('/search.json')
+    .then(function (r) { return r.json(); })
+    .then(function (docs) {
+      store = {};
+      index = lunr(function () {
+        this.pipeline.before(lunr.trimmer, stripOkina);
+        this.searchPipeline.before(lunr.stemmer, stripOkina);
+        this.ref('url');
+        this.field('title', { boost: 10 });
+        this.field('content');
+
+        docs.forEach(function (doc) {
+          this.add(doc);
+          store[doc.url] = doc;
+        }, this);
+      });
+
+      // Run a search if query is already in the URL
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get('q');
+      if (q) {
+        input.value = q;
+        doSearch(q);
+      }
+    });
+
+  input.addEventListener('input', function () {
+    var q = this.value.trim();
+    // Update URL without reloading so the result is shareable
+    var base = '/search/';
+    var url = q ? base + '?q=' + encodeURIComponent(q) : base;
+    history.replaceState(null, '', url);
+    doSearch(q);
+  });
+
+  function doSearch(q) {
+    results.innerHTML = '';
+    status.textContent = '';
+
+    if (!q || q.length < 2) return;
+    if (!index) {
+      status.textContent = 'Loading index…';
+      return;
+    }
+
+    var hits;
+    try {
+      // Try exact + fuzzy wildcard
+      hits = index.search(q + ' ' + q.split(/\s+/).map(function (t) {
+        return t.length > 3 ? t + '~1' : t;
+      }).join(' '));
+    } catch (e) {
+      hits = [];
+    }
+
+    if (!hits.length) {
+      status.textContent = 'No results for "' + q + '".';
+      return;
+    }
+
+    status.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's') + ' for "' + q + '"';
+
+    var html = '<ul class="search-result-list">';
+    hits.forEach(function (hit) {
+      var doc = store[hit.ref];
+      var snippet = getSnippet(doc.content, q);
+      html += '<li class="search-result">'
+        + '<a class="search-result-title" href="' + doc.url + '">' + escHtml(doc.title) + '</a>'
+        + '<p class="search-result-snippet">' + snippet + '</p>'
+        + '</li>';
+    });
+    html += '</ul>';
+    results.innerHTML = html;
+  }
+
+  function getSnippet(content, query) {
+    var words  = query.toLowerCase().split(/\s+/).filter(Boolean);
+    var lower  = content.toLowerCase();
+    var best   = -1;
+
+    words.forEach(function (w) {
+      var i = lower.indexOf(w);
+      if (i !== -1 && (best === -1 || i < best)) best = i;
+    });
+
+    var start = best === -1 ? 0 : Math.max(0, best - 80);
+    var end   = Math.min(content.length, start + 240);
+    var raw   = (start > 0 ? '…' : '') + content.slice(start, end).trim() + (end < content.length ? '…' : '');
+
+    // Escape first, then highlight matched words in the escaped text
+    var html = escHtml(raw);
+    words.forEach(function (w) {
+      html = html.replace(new RegExp('(' + regEsc(escHtml(w)) + ')', 'gi'), '<mark>$1</mark>');
+    });
+    return html;
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function regEsc(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+}());
+</script>
+
+
+  <footer class="site-footer">
+    <p>Source: Hawaii Division of Aquatic Resources &mdash; <em>fishing_regs_May_2025.pdf</em></p>
+    <p>For the official rulebook, visit <a href="https://dlnr.hawaii.gov/dar/fishing/" target="_blank" rel="noopener">dlnr.hawaii.gov/dar/fishing</a></p>
+  </footer>
+</body>
+</html>

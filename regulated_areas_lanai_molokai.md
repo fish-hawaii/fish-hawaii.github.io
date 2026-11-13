@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lāna'i & Moloka'i — Regulated Areas"
+title: "Lānaʻi & Molokaʻi — Regulated Areas"
 permalink: /areas/lanai-molokai/
 show_breadcrumb: true
 breadcrumb_parent: Regulated Areas
@@ -10,13 +10,13 @@ breadcrumb_parent_url: /areas/
 <div class="page-toc">
 <strong>On this page</strong>
 <ul>
-  <li><a href="#lānaʻi">Lāna'i</a>
+  <li><a href="#lānaʻi">Lānaʻi</a>
     <ul>
-      <li><a href="#m%C4%81nele-hulopo%CA%BBe-marine-life-conservation-district">Mānele-Hulopo'e MLCD</a></li>
+      <li><a href="#m%C4%81nele-hulopo%CA%BBe-marine-life-conservation-district">Mānele-Hulopoʻe MLCD</a></li>
       <li><a href="#m%C4%81nele-harbor">Mānele Harbor</a></li>
     </ul>
   </li>
-  <li><a href="#moloka%CA%BBi">Moloka'i</a>
+  <li><a href="#moloka%CA%BBi">Molokaʻi</a>
     <ul>
       <li><a href="#kaunakakai-harbor">Kaunakakai Harbor</a></li>
     </ul>
@@ -24,27 +24,27 @@ breadcrumb_parent_url: /areas/
 </ul>
 </div>
 
-# Lāna'i &amp; Moloka'i — Regulated Fishing Areas
+# Lānaʻi &amp; Molokaʻi — Regulated Fishing Areas
 
 ---
 
-## LĀNA'I
+## LĀNAʻI
 
-### Mānele-Hulopo'e Marine Life Conservation District
+### Mānele-Hulopoʻe Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_lanai_manele_hulopoe_mlcd.png' | relative_url }}" alt="Map of Mānele-Hulopo'e MLCD on Lāna'i">
-  <figcaption>Mānele-Hulopo'e MLCD — Subzone A (vessel-free) and Subzone B, southwestern Lāna'i</figcaption>
+  <img src="{{ '/images/map_lanai_manele_hulopoe_mlcd.png' | relative_url }}" alt="Map of Mānele-Hulopoʻe MLCD on Lānaʻi">
+  <figcaption>Mānele-Hulopoʻe MLCD — Subzone A (vessel-free) and Subzone B, southwestern Lānaʻi</figcaption>
 </figure>
 
-**Location:** Offshore of Palawai and Kamao on the southwestern coast of Lāna'i.
-- **Subzone A** — Bounded seaward by a line from Kaluako'i Point to Flat Rock, then to Pu'u Pehe Rock.
-- **Subzone B** — Bounded seaward by a line from Pu'u Pehe Rock to Kalaeokahano Point.
+**Location:** Offshore of Palawai and Kamao on the southwestern coast of Lānaʻi.
+- **Subzone A** — Bounded seaward by a line from Kaluakoʻi Point to Flat Rock, then to Puʻu Pehe Rock.
+- **Subzone B** — Bounded seaward by a line from Puʻu Pehe Rock to Kalaeokahano Point.
 
 The Division of Boating and Ocean Recreation has established rules relating to boating, anchoring, and mooring within the MLCD.
 
 #### Permitted
-- Fish for, take, or possess any finfish or 'a'ama crab by pole-and-line from the shoreline only.
+- Fish for, take, or possess any finfish or ʻaʻama crab by pole-and-line from the shoreline only.
 - Possess the following gear: pole and line; one knife; one hand net with frame no more than 3 feet in diameter (excluding handle); any legal fishing gear while on a vessel transiting to or from Mānele Boat Harbor within the harbor channel or the Harbor (but fishing gear may not be in the water).
 - With a permit, engage in activities otherwise prohibited for scientific, propagation, or other purposes.
 
@@ -63,7 +63,7 @@ The Division of Boating and Ocean Recreation has established rules relating to b
   <figcaption>Mānele Harbor — Area 1 and Area 2</figcaption>
 </figure>
 
-**Location:** Small boat harbor on the southern coast of Lāna'i.
+**Location:** Small boat harbor on the southern coast of Lānaʻi.
 - **Area 1** — Shoreline portion of the entrance channel and basin, bounded seaward by a line connecting the seaward tip of the three groins along the shoreline.
 - **Area 2** — Breakwater portion of the entrance channel.
 
@@ -79,7 +79,7 @@ Permitted activities should not be construed as allowing activities otherwise pr
 
 ---
 
-## MOLOKA'I
+## MOLOKAʻI
 
 ### Kaunakakai Harbor
 
@@ -88,7 +88,7 @@ Permitted activities should not be construed as allowing activities otherwise pr
   <figcaption>Kaunakakai Harbor — Areas 1A, 1B, and 2 fishing rules</figcaption>
 </figure>
 
-**Location:** Southern coast of Moloka'i.
+**Location:** Southern coast of Molokaʻi.
 - **Area 1A** and **Area 1B** — Portions of the commercial harbor, separated by a line extending from the Channel Range Lights.
 - **Area 2** — Portions of the small craft harbor.
 

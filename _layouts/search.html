@@ -30,11 +30,19 @@ layout: default
 
   var index, store;
 
+  // Drop ʻokina and apostrophes so "Oʻahu", "O'ahu" and "Oahu" all match
+  function stripOkina(token) {
+    return token.update(function (s) { return s.replace(/[ʻ'‘’]/g, ''); });
+  }
+  lunr.Pipeline.registerFunction(stripOkina, 'stripOkina');
+
   fetch('{{ "/search.json" | relative_url }}')
     .then(function (r) { return r.json(); })
     .then(function (docs) {
       store = {};
       index = lunr(function () {
+        this.pipeline.before(lunr.trimmer, stripOkina);
+        this.searchPipeline.before(lunr.stemmer, stripOkina);
         this.ref('url');
         this.field('title', { boost: 10 });
         this.field('content');

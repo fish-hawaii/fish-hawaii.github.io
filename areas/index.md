@@ -32,28 +32,28 @@ Hawaii's waters are managed through several types of designated areas that restr
 
 <div class="island-grid">
   <a href="{{ '/areas/oahu/' | relative_url }}" class="island-card">
-    <h3>O'ahu</h3>
+    <h3>Oʻahu</h3>
     <p>Hanauma Bay, Waikīkī, Pūpūkea, Maunalua Bay, and more</p>
   </a>
   <a href="{{ '/areas/hawaii-island/' | relative_url }}" class="island-card">
-    <h3>Hawai'i Island</h3>
-    <p>Kealakekua Bay, West Hawai'i FMA, Miloli'i CBSFA, and more</p>
+    <h3>Hawaiʻi Island</h3>
+    <p>Kealakekua Bay, West Hawaiʻi FMA, Miloliʻi CBSFA, and more</p>
   </a>
   <a href="{{ '/areas/maui/' | relative_url }}" class="island-card">
     <h3>Maui</h3>
     <p>Molokini Shoal, Honolua Bay, Kahekili Herbivore FMA, Kīpahulu CBSFA</p>
   </a>
   <a href="{{ '/areas/kauai/' | relative_url }}" class="island-card">
-    <h3>Kaua'i</h3>
-    <p>Kōke'e PFA, Hā'ena CBSFA, Wailua Reservoir, and harbor areas</p>
+    <h3>Kauaʻi</h3>
+    <p>Kōkeʻe PFA, Hāʻena CBSFA, Wailua Reservoir, and harbor areas</p>
   </a>
   <a href="{{ '/areas/lanai-molokai/' | relative_url }}" class="island-card">
-    <h3>Lāna'i &amp; Moloka'i</h3>
-    <p>Mānele-Hulopo'e MLCD, Mānele Harbor, Kaunakakai Harbor</p>
+    <h3>Lānaʻi &amp; Molokaʻi</h3>
+    <p>Mānele-Hulopoʻe MLCD, Mānele Harbor, Kaunakakai Harbor</p>
   </a>
   <a href="{{ '/areas/other/' | relative_url }}" class="island-card">
     <h3>Other Areas</h3>
-    <p>Kaho'olawe Reserve, Northwestern Hawaiian Islands, and state/federal reserves</p>
+    <p>Kahoʻolawe Reserve, Northwestern Hawaiian Islands, and state/federal reserves</p>
   </a>
 </div>
 

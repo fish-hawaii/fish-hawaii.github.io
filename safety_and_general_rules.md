@@ -37,7 +37,7 @@ show_breadcrumb: true
 - Fish with a friend; let someone know when you plan to return.
 - Take along gear that floats when fishing from rocky shorelines.
 
-> **Warning:** Hazardous to enter water during periods of high surf along the North Shore (O'ahu).
+> **Warning:** Hazardous to enter water during periods of high surf along the North Shore (Oʻahu).
 
 ---
 
@@ -45,7 +45,7 @@ show_breadcrumb: true
 
 - **Better for the fish** — Easier to quickly release unwanted catch without damage, meaning more and healthier fish in the future.
 - **Better for you** — Minimizes injury to yourself and others, as well as damage to clothing and nets.
-- **Better for Hawai'i's protected species** — Barbless hooks reduce potential injury in the event of accidental hooking or entanglement, and allow for quicker release or self-shedding to reduce trauma.
+- **Better for Hawaiʻi's protected species** — Barbless hooks reduce potential injury in the event of accidental hooking or entanglement, and allow for quicker release or self-shedding to reduce trauma.
 
 > You can get sample barbless hooks at DAR offices.
 
@@ -53,7 +53,7 @@ show_breadcrumb: true
 
 ## Catch and Release
 
-To help improve the quality of fishing in Hawai'i, fishers are encouraged to release fish safely whenever possible. Guidelines:
+To help improve the quality of fishing in Hawaiʻi, fishers are encouraged to release fish safely whenever possible. Guidelines:
 
 - Quickly play and release fish.
 - Keep fish in water as much as possible.
@@ -126,7 +126,7 @@ To help improve the quality of fishing in Hawai'i, fishers are encouraged to rel
 
 ## Fish Aggregating Devices (FADs)
 
-### Hawai'i Statewide Fish Aggregating System — Surface FADs
+### Hawaiʻi Statewide Fish Aggregating System — Surface FADs
 
 **Prohibited:**
 - Attach, moor, or tie any boat or watercraft, or any rigging or structure to any fish aggregating device.
@@ -212,8 +212,8 @@ Turtles with serious cuts, ingested or deeply embedded hooks need veterinary car
 
 | Island | Address | Phone |
 |--------|---------|-------|
-| O'ahu | 1151 Punchbowl St., Rm. 330, Honolulu, HI 96813 | 808-587-0100 |
-| Kaua'i | 3060 'Eiwa St., Rm. 306, Līhu'e, HI 96766 | 808-274-3344 |
-| East Hawai'i | 75 Aupuni St., Rm. 204, Hilo, HI 96720 | 808-961-9530 |
-| West Hawai'i | Honokōhau Marina, 74-380B Kealakehe Pkwy., Kailua-Kona, HI 96740 | 808-327-6226 |
+| Oʻahu | 1151 Punchbowl St., Rm. 330, Honolulu, HI 96813 | 808-587-0100 |
+| Kauaʻi | 3060 ʻEiwa St., Rm. 306, Līhuʻe, HI 96766 | 808-274-3344 |
+| East Hawaiʻi | 75 Aupuni St., Rm. 204, Hilo, HI 96720 | 808-961-9530 |
+| West Hawaiʻi | Honokōhau Marina, 74-380B Kealakehe Pkwy., Kailua-Kona, HI 96740 | 808-327-6226 |
 | Maui County | 130 Mahalani St., Wailuku, HI 96793 | 808-243-5294 |

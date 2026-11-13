@@ -11,7 +11,7 @@ breadcrumb_parent_url: /areas/
 <strong>On this page</strong>
 <ul>
   <li><a href="#molokini-shoal-marine-life-conservation-district">Molokini Shoal MLCD</a></li>
-  <li><a href="#honolua-mokule%CA%BBia-bay-marine-life-conservation-district">Honolua-Mokulē'ia Bay MLCD</a></li>
+  <li><a href="#honolua-mokulēʻia-bay-marine-life-conservation-district">Honolua-Mokulēʻia Bay MLCD</a></li>
   <li><a href="#kahului-harbor">Kahului Harbor</a></li>
   <li><a href="#kahekili-herbivore-fisheries-management-area">Kahekili Herbivore FMA</a></li>
   <li><a href="#k%C4%ABpahulu-community-based-subsistence-fishing-area-cbsfa">Kīpahulu CBSFA</a></li>
@@ -30,7 +30,7 @@ breadcrumb_parent_url: /areas/
 </figure>
 
 **Location:** Offshore of Molokini Shoal, about three miles from the southwestern coast of Maui.
-- **Subzone A** — Waters and submerged lands within the crater, bounded seaward by a straight line from the end of the submerged ridge extending off Lalilali Point to Pahe'e O Lono Point.
+- **Subzone A** — Waters and submerged lands within the crater, bounded seaward by a straight line from the end of the submerged ridge extending off Lalilali Point to Paheʻe O Lono Point.
 - **Subzone B** — Waters and submerged lands 100 yards seaward of Molokini Shoal and Subzone A.
 
 ### Permitted
@@ -47,14 +47,14 @@ breadcrumb_parent_url: /areas/
 
 ---
 
-## Honolua-Mokulē'ia Bay Marine Life Conservation District
+## Honolua-Mokulēʻia Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_honolua_mokuleia_bay_mlcd.png' | relative_url }}" alt="Map of Honolua-Mokulē'ia Bay MLCD">
-  <figcaption>Honolua-Mokulē'ia Bay Marine Life Conservation District</figcaption>
+  <img src="{{ '/images/map_maui_honolua_mokuleia_bay_mlcd.png' | relative_url }}" alt="Map of Honolua-Mokulēʻia Bay MLCD">
+  <figcaption>Honolua-Mokulēʻia Bay Marine Life Conservation District</figcaption>
 </figure>
 
-**Location:** Along the northwestern coast of Maui, bounded seaward by a line from 'Alaelae Point to Kalaepiha Point, then to the point at the northwestern corner of Honolua Bay.
+**Location:** Along the northwestern coast of Maui, bounded seaward by a line from ʻAlaelae Point to Kalaepiha Point, then to the point at the northwestern corner of Honolua Bay.
 
 ### Permitted
 - Possess aboard any boat or watercraft any legal fishing gear and fish or other aquatic life taken outside of the District.
@@ -93,10 +93,10 @@ breadcrumb_parent_url: /areas/
 
 <figure class="map-fig">
   <img src="{{ '/images/map_maui_kahekili_herbivore_fma.jpg' | relative_url }}" alt="Map of Kahekili Herbivore FMA">
-  <figcaption>Kahekili Herbivore FMA — north Kā'anapali; parrotfish, surgeonfish, and sea urchins protected</figcaption>
+  <figcaption>Kahekili Herbivore FMA — north Kāʻanapali; parrotfish, surgeonfish, and sea urchins protected</figcaption>
 </figure>
 
-**Location:** Off north Kā'anapali. Northern boundary is a straight line extending 1,292 yards west from Honokōwai Beach Park; southern boundary is a straight line extending 335 yards west from Hanaka'ō'ō Beach; seaward boundary is a straight line connecting the seaward endpoints of the northern and southern boundaries.
+**Location:** Off north Kāʻanapali. Northern boundary is a straight line extending 1,292 yards west from Honokōwai Beach Park; southern boundary is a straight line extending 335 yards west from Hanakaʻōʻō Beach; seaward boundary is a straight line connecting the seaward endpoints of the northern and southern boundaries.
 
 ### Permitted
 - Fish for, injure, kill, possess, or remove any finfish or invertebrate, except prohibited species indicated below.
@@ -118,16 +118,16 @@ breadcrumb_parent_url: /areas/
 
 <figure class="map-fig">
   <img src="{{ '/images/map_maui_kipahulu_cbsfa_detail.png' | relative_url }}" alt="Map of Kīpahulu CBSFA">
-  <figcaption>Kīpahulu CBSFA — southeast Maui coast with 'Opihi Rest Area and Kukui Bay Sanctuary sub-zones</figcaption>
+  <figcaption>Kīpahulu CBSFA — southeast Maui coast with ʻOpihi Rest Area and Kukui Bay Sanctuary sub-zones</figcaption>
 </figure>
 
-**Location:** Southeast coast of Maui, from Kālepa Gulch in the west to Pua'alu'u Gulch in the east, from the shoreline out to approximately 60 meters depth. Contains two sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.11).
+**Location:** Southeast coast of Maui, from Kālepa Gulch in the west to Puaʻaluʻu Gulch in the east, from the shoreline out to approximately 60 meters depth. Contains two sub-zones. GPS coordinates can be found on the DAR website (administrative rules page, Part II, Chapter 60.11).
 
 ### Sub-Zones
 
 | Sub-Zone | Boundaries |
 |----------|------------|
-| 'Opihi Rest Area | From Oheo Gulch to Ka'ū Bay |
+| ʻOpihi Rest Area | From Oheo Gulch to Kaʻū Bay |
 | Kukui Bay Sanctuary | From Kukui Bay interior to Submarine Point to Puhilele Point |
 
 ### Permitted
@@ -139,16 +139,16 @@ breadcrumb_parent_url: /areas/
 - Take or possess:
   - More than **10 finfish** per person per day (akule and introduced or invasive fish not included)
   - Any akule for commercial purposes
-  - More than **1 'ōmilu** per person per day
+  - More than **1 ʻōmilu** per person per day
   - More than **2 kala** per person per day
   - Any kole less than 5 inches in length
   - Any moi from **May–September**; or during open season less than 11 inches or more than 18 inches long
-  - More than **40 'opihi** of any species, or with a shell diameter of less than 1¼ inches or more than 2 inches
-  - Any 'opihi within the **'Opihi Rest Area**, or while diving
+  - More than **40 ʻopihi** of any species, or with a shell diameter of less than 1¼ inches or more than 2 inches
+  - Any ʻopihi within the **ʻOpihi Rest Area**, or while diving
   - Any ula or ula pāpapa from **May–September**; or more than a combined total of **2 of both species** per person per day
   - More than **2 spotted reef crabs** per person per day
   - Any native limu species with holdfast ("roots") attached
-- Engage in surround net fishing, except for akule or ta'ape.
+- Engage in surround net fishing, except for akule or taʻape.
 - Take any marine life with a bag net.
 - Possess a throw net with a stretched mesh less than 3 inches.
 - Use more than two fishing poles; each pole may have only one line, each line no more than two hooks, and each hook only one point. Double or treble hooks allowed on lures.
@@ -160,10 +160,10 @@ breadcrumb_parent_url: /areas/
 
 | Common Name | Scientific Name |
 |-------------|----------------|
-| Kō'ele | *Cellana talcosa* |
+| Kōʻele | *Cellana talcosa* |
 | Makaiauli | *C. exarata* |
 | Spotted reef crab | *Carpilius maculatus* |
 | Pipipi | *Theodoxus neglectus*, *Nerita picea* |
-| Ta'ape | *Lutjanus kasmira* |
+| Taʻape | *Lutjanus kasmira* |
 
 > Scientific names of native limu can be found in the table appended to the administrative rule.

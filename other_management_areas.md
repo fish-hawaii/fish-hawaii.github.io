@@ -13,14 +13,14 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 
 ---
 
-## 'Āhihi-Kīna'u Natural Area Reserve — Maui
+## ʻĀhihi-Kīnaʻu Natural Area Reserve — Maui
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_ahihi_kinau_reserve.png' | relative_url }}" alt="Map of 'Āhihi-Kīna'u Natural Area Reserve">
-  <figcaption>'Āhihi-Kīna'u Natural Area Reserve</figcaption>
+  <img src="{{ '/images/map_maui_ahihi_kinau_reserve.png' | relative_url }}" alt="Map of ʻĀhihi-Kīnaʻu Natural Area Reserve">
+  <figcaption>ʻĀhihi-Kīnaʻu Natural Area Reserve</figcaption>
 </figure>
 
-**Location:** 'Āhihi-Kīnau shore waters include the waters seaward of Cape Kīnau at a distance of 2,000 to 3,000 feet.
+**Location:** ʻĀhihi-Kīnau shore waters include the waters seaward of Cape Kīnau at a distance of 2,000 to 3,000 feet.
 
 ### Prohibited
 - Remove, injure, or kill any form of plant or animal (no fishing).
@@ -31,7 +31,7 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 
 ---
 
-## Paikō Lagoon Wildlife Sanctuary — O'ahu
+## Paikō Lagoon Wildlife Sanctuary — Oʻahu
 
 <figure class="map-fig">
   <img src="{{ '/images/map_oahu_paiko_lagoon_sanctuary.png' | relative_url }}" alt="Map of Paikō Lagoon Wildlife Sanctuary">
@@ -48,24 +48,24 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 
 ---
 
-## Kaho'olawe Island Reserve
+## Kahoʻolawe Island Reserve
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kahoolawe_reserve.png' | relative_url }}" alt="Map of Kaho'olawe Island Reserve">
-  <figcaption>Kaho'olawe Island Reserve — 2 nautical mile perimeter; entry prohibited without KIRC authorization</figcaption>
+  <img src="{{ '/images/map_kahoolawe_reserve.png' | relative_url }}" alt="Map of Kahoʻolawe Island Reserve">
+  <figcaption>Kahoʻolawe Island Reserve — 2 nautical mile perimeter; entry prohibited without KIRC authorization</figcaption>
 </figure>
 
-**Location:** The island of Kaho'olawe and surrounding waters seaward to a distance of two nautical miles.
+**Location:** The island of Kahoʻolawe and surrounding waters seaward to a distance of two nautical miles.
 
 > **DANGER:** The Reserve is a former military range, and unexploded ordnance is present on the island and in surrounding waters.
 
 ### Permitted
-- Cultural, spiritual, subsistence, preservation, restoration, educational, and fishing activities specifically authorized by the Kaho'olawe Island Reserve Commission.
+- Cultural, spiritual, subsistence, preservation, restoration, educational, and fishing activities specifically authorized by the Kahoʻolawe Island Reserve Commission.
 
 ### Prohibited
-- All entrance into and activities within the Kaho'olawe Island Reserve, including all manner of boating, fishing, and diving, unless specifically authorized by the Commission.
+- All entrance into and activities within the Kahoʻolawe Island Reserve, including all manner of boating, fishing, and diving, unless specifically authorized by the Commission.
 
-> Contact the Kaho'olawe Island Reserve Commission: 808-586-0761 (O'ahu) or 808-243-5889 (Maui).
+> Contact the Kahoʻolawe Island Reserve Commission: 808-586-0761 (Oʻahu) or 808-243-5889 (Maui).
 
 ---
 
@@ -90,6 +90,6 @@ Fishing and other activities may be restricted in additional areas under the jur
 
 | Agency / Division | Areas |
 |-------------------|-------|
-| DLNR – DOFAW | Alaka'i Wilderness Preserve, Kaua'i; Waikīkī restricted areas, O'ahu; Kanahā Pond Wildlife Sanctuary, Maui; Waimanu Estuarine Sanctuary, Hawai'i; Hawai'i State Seabird Sanctuary (various statewide islands and islets); small boat harbor facilities |
+| DLNR – DOFAW | Alakaʻi Wilderness Preserve, Kauaʻi; Waikīkī restricted areas, Oʻahu; Kanahā Pond Wildlife Sanctuary, Maui; Waimanu Estuarine Sanctuary, Hawaiʻi; Hawaiʻi State Seabird Sanctuary (various statewide islands and islets); small boat harbor facilities |
 | DLNR – DOT | Commercial harbor facilities |
 | U.S. Fish and Wildlife Service | National Wildlife Refuge areas |
