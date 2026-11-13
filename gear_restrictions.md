@@ -13,7 +13,7 @@ show_breadcrumb: true
   <li><a href="#akule-nets">Akule Nets</a></li>
   <li><a href="#drift-nets">Drift Nets</a></li>
   <li><a href="#lay-nets-statewide">Lay Nets (Statewide)</a></li>
-  <li><a href="#lay-nets--moloka%CA%BBi-special-rules">Lay Nets — Moloka'i</a></li>
+  <li><a href="#lay-nets--moloka%CA%BBi-special-rules">Lay Nets — Molokaʻi</a></li>
   <li><a href="#traps">Traps</a></li>
   <li><a href="#firearms-and-spears">Firearms &amp; Spears</a></li>
   <li><a href="#drones-unmanned-aerial-vehicles">Drones</a></li>
@@ -43,8 +43,8 @@ show_breadcrumb: true
 ### Exceptions
 - All persons may use hand nets or scoop nets of smaller mesh to take fish and other marine life for noncommercial purposes only, provided the net (including handle and other attachments) does not exceed three feet in any dimension.
 - Licensed pond owners or operators may use nets of smaller mesh to take young mullet (pua) to stock their ponds.
-- Commercial Marine licensees with a Bait License may use nets of smaller mesh to take 'iao, Marquesan sardine, gold-spot herring, or any other species for which the Department declares an open season for use as bait.
-- All persons may use nets of smaller mesh to take shrimp ('ōpae), 'ōpelu, and makiawa.
+- Commercial Marine licensees with a Bait License may use nets of smaller mesh to take ʻiao, Marquesan sardine, gold-spot herring, or any other species for which the Department declares an open season for use as bait.
+- All persons may use nets of smaller mesh to take shrimp (ʻōpae), ʻōpelu, and makiawa.
 - All persons using surround nets with SCUBA may use nets of not less than 1½ inches to bag and transport fish captured with legal gear to the shore or boat.
 - See provisions relating to taking akule (halalū) and nehu, and provisions affecting particular areas.
 
@@ -79,7 +79,7 @@ show_breadcrumb: true
 
 ### Permits and Identification
 - Unlawful to possess or use a lay net without first obtaining a **lay net permit**.
-  - Fee: Hawai'i residents — no charge; non-residents — $25; duplicate — $10
+  - Fee: Hawaiʻi residents — no charge; non-residents — $25; duplicate — $10
 - Nets must be tagged as specified, attached at each end of the float line and lead line (at least four attachment points per net); each tag must legibly display the permit number.
 - Unlawful to falsely identify (tag) any lay net.
 - Nets must be marked by surface buoys as specified; buoys shall legibly display the permit number, be marked with reflective tape, and be visible above the surface of the water; two buoys per net (one at each end of the float line).
@@ -100,13 +100,13 @@ show_breadcrumb: true
 ### Prohibited Areas for Lay Nets
 Unlawful to use lay nets within:
 - **3 miles of the shoreline around the entire island of Maui**
-- Off O'ahu: south shore from Kawaihoa Pt. to Keahi Pt.; Kailua Bay from Mōkapu Pt. to Wailea Pt.; Kāne'ohe Bay between the sampan and ship channels.
+- Off Oʻahu: south shore from Kawaihoa Pt. to Keahi Pt.; Kailua Bay from Mōkapu Pt. to Wailea Pt.; Kāneʻohe Bay between the sampan and ship channels.
 
 > Detailed maps available at DAR offices.
 
 ---
 
-## Lay Nets — Moloka'i Special Rules
+## Lay Nets — Molokaʻi Special Rules
 
 - Maximum net length: **750 feet** when set end-to-end; maximum height: 7 feet; minimum mesh: 2¾ inches stretched.
 - Net users must first obtain a lay net permit from the department.
@@ -124,7 +124,7 @@ Unlawful to use lay nets within:
   - Netting: **2-inch stretched mesh**
   - Rigid material: **2 inches by 1 inch**
   - Entrance cones: no minimum mesh size
-- Traps for shrimp and 'opae: **no minimum mesh size**.
+- Traps for shrimp and ʻopae: **no minimum mesh size**.
 - Traps must be portable and **not exceed 10 feet in length or 6 feet in height or width**.
 
 ### Aquarium Purposes
@@ -134,7 +134,7 @@ Unlawful to use lay nets within:
 ### Bullpen Traps
 - Total length of a "bullpen" trap may not exceed **2,000 feet** (including the length of the guide(s) and pen).
 - Total soak time may not exceed **16 hours**.
-- Bullpen traps must be set more than **1,000 yards from shore**, except on Moloka'i where they may be set:
+- Bullpen traps must be set more than **1,000 yards from shore**, except on Molokaʻi where they may be set:
   - Beyond **500 yards** from shore west of Kaunakakai Wharf
   - Beyond **200 yards** from shore east of Kaunakakai Wharf
 
