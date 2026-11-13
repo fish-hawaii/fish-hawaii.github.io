@@ -117,11 +117,12 @@ layout: default
     var end   = Math.min(content.length, start + 240);
     var raw   = (start > 0 ? '…' : '') + content.slice(start, end).trim() + (end < content.length ? '…' : '');
 
-    // Highlight matched words
+    // Escape first, then highlight matched words in the escaped text
+    var html = escHtml(raw);
     words.forEach(function (w) {
-      raw = raw.replace(new RegExp('(' + regEsc(w) + ')', 'gi'), '<mark>$1</mark>');
+      html = html.replace(new RegExp('(' + regEsc(escHtml(w)) + ')', 'gi'), '<mark>$1</mark>');
     });
-    return raw;
+    return html;
   }
 
   function escHtml(s) {
