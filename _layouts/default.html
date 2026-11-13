@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title and page.title != "Home" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   {% seo title=false %}
+  <script>document.documentElement.classList.add('js');</script>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
@@ -13,7 +14,8 @@
       <a href="{{ '/' | relative_url }}" class="site-title">
         <span class="accent">Hawaii</span> Fishing Regulations
       </a>
-      <nav class="site-nav">
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="Main">
         <a href="{{ '/species/' | relative_url }}"{% if page.url contains '/species' %} class="active"{% endif %}>Species</a>
         <a href="{{ '/gear/' | relative_url }}"{% if page.url contains '/gear' %} class="active"{% endif %}>Gear</a>
         <a href="{{ '/safety/' | relative_url }}"{% if page.url contains '/safety' %} class="active"{% endif %}>Safety</a>
@@ -31,5 +33,17 @@
     <p>Source: Hawaii Division of Aquatic Resources &mdash; <a href="{{ '/fishing_regs_May_2025.pdf' | relative_url }}"><em>fishing_regs_May_2025.pdf</em> (PDF, 2.5 MB)</a></p>
     <p>For the official rulebook, visit <a href="https://dlnr.hawaii.gov/dar/fishing/" target="_blank" rel="noopener">dlnr.hawaii.gov/dar/fishing</a></p>
   </footer>
+
+  <script>
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('site-nav');
+    toggle.addEventListener('click', function () {
+      var open = toggle.getAttribute('aria-expanded') !== 'true';
+      toggle.setAttribute('aria-expanded', String(open));
+      nav.classList.toggle('open', open);
+    });
+  }());
+  </script>
 </body>
 </html>
