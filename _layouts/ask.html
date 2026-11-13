@@ -85,12 +85,19 @@ layout: default
 
   // Load search index once for context
   var regulationContext = null;
+  var contextFailed = false;
   fetch('{{ "/search.json" | relative_url }}')
-    .then(function (r) { return r.json(); })
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
     .then(function (docs) {
       regulationContext = docs.map(function (d) {
         return '## ' + d.title + '\n' + d.content;
       }).join('\n\n');
+    })
+    .catch(function () {
+      contextFailed = true;
     });
 
   form.addEventListener('submit', function (e) {
@@ -101,6 +108,7 @@ layout: default
 
     if (!apiKey) { showError('Please enter and save your Anthropic API key above.'); return; }
     if (!question) { showError('Please enter a question.'); return; }
+    if (contextFailed) { showError('Could not load the regulation content. Please refresh the page and try again.'); return; }
     if (!regulationContext) { showError('Regulation content is still loading — please try again in a moment.'); return; }
 
     clearError();
@@ -152,27 +160,43 @@ layout: default
       var reader  = response.body.getReader();
       var decoder = new TextDecoder();
       var buffer  = '';
+      var stopReason = null;
 
       function read() {
         return reader.read().then(function (chunk) {
-          if (chunk.done) { onDone(); return; }
+          if (chunk.done) {
+            if (stopReason === 'max_tokens') {
+              showError('The answer was cut off because it reached the length limit. Try a more specific question.');
+            } else if (stopReason === 'refusal') {
+              showError('Claude declined to answer this question.');
+            } else if (!answerText) {
+              showError('No answer was returned. Please try again.');
+            }
+            return;
+          }
 
           buffer += decoder.decode(chunk.value, { stream: true });
           var lines = buffer.split('\n');
           buffer = lines.pop();
 
+          var streamError = null;
           lines.forEach(function (line) {
             if (!line.startsWith('data: ')) return;
             var data = line.slice(6).trim();
             if (data === '[DONE]') return;
-            try {
-              var evt = JSON.parse(data);
-              if (evt.type === 'content_block_delta' && evt.delta && evt.delta.type === 'text_delta') {
-                answerText += evt.delta.text;
-                renderAnswer(answerText);
-              }
-            } catch (_) {}
+            var evt;
+            try { evt = JSON.parse(data); } catch (_) { return; }
+            if (evt.type === 'content_block_delta' && evt.delta && evt.delta.type === 'text_delta') {
+              answerText += evt.delta.text;
+              renderAnswer(answerText);
+            } else if (evt.type === 'message_delta' && evt.delta && evt.delta.stop_reason) {
+              stopReason = evt.delta.stop_reason;
+            } else if (evt.type === 'error') {
+              // Errors can arrive mid-stream (e.g. overloaded) after a 200 response
+              streamError = (evt.error && evt.error.message) || 'The response stream failed.';
+            }
           });
+          if (streamError) throw new Error(streamError);
 
           return read();
         });
@@ -181,7 +205,8 @@ layout: default
       return read();
     })
     .catch(function (err) {
-      answerSec.hidden = true;
+      // Keep any partial answer visible; hide the panel only if it is empty
+      if (!answerText) answerSec.hidden = true;
       showError('Error: ' + err.message);
     })
     .finally(function () {
@@ -193,11 +218,6 @@ layout: default
   // Render the model's markdown, sanitized since it is untrusted output
   function renderAnswer(md) {
     answerBody.innerHTML = DOMPurify.sanitize(marked.parse(md));
-  }
-
-  function onDone() {
-    askBtn.disabled = false;
-    askBtn.textContent = 'Ask';
   }
 
   function showError(msg) {
