@@ -103,10 +103,10 @@ show_breadcrumb: true
 | <img src="{{ '/images/samoan_crab.png' | relative_url }}" alt="Samoan crab" class="species-thumb"> | Samoan crab | Open | 6 inches (width across back) | — | No spearing. No taking with eggs. No taking or killing females. |
 | <img src="{{ '/images/tako.png' | relative_url }}" alt="He'e" class="species-thumb"> | He'e (octopus, tako, "squid") | Open | 1 pound | — | None |
 | <img src="{{ '/images/opihi.png' | relative_url }}" alt="'Opihi" class="species-thumb"> | 'Opihi | Open | 1¼ inches (shell diameter); ½ inch (meat diameter, if meat only) | — | None |
-| <img src="{{ '/images/clams.png' | relative_url }}" alt="'Opihi" class="species-thumb"> | Clams, oysters, and other mollusks | Closed | — | — | Taking prohibited |
+| <img src="{{ '/images/clams.png' | relative_url }}" alt="Clams, oysters, and other mollusks" class="species-thumb"> | Clams, oysters, and other mollusks | Closed | — | — | Taking prohibited |
 
 <figure class="species-fig">
-  <img src="{{ '/images/sea_cucumber.png' | relative_url }}" alt="'Opihi (limpet)">
+  <img src="{{ '/images/sea_cucumber.png' | relative_url }}" alt="Sea cucumber">
   <figcaption>Sea Cucumber.</figcaption>
 </figure>
 

@@ -56,7 +56,7 @@ breadcrumb_parent_url: /areas/
 ## Old Kona Airport Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/kona_airport.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/kona_airport.png' | relative_url }}" alt="Map of Old Kona Airport MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ breadcrumb_parent_url: /areas/
 ## Waialea Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/waialea_bay.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/waialea_bay.png' | relative_url }}" alt="Map of Waialea Bay MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ breadcrumb_parent_url: /areas/
 ## Lapakahi Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/lapakahi.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/lapakahi.png' | relative_url }}" alt="Map of Lapakahi MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -252,7 +252,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Puakō Bay and Puakō Reef Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/Puako.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/Puako.png' | relative_url }}" alt="Map of Puakō Bay and Puakō Reef FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -337,7 +337,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Kailua Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/kailua.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/kailua.png' | relative_url }}" alt="Map of Kailua Bay FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -364,7 +364,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Keauhou Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/keauhou_bay.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/keauhou_bay.png' | relative_url }}" alt="Map of Keauhou Bay FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
