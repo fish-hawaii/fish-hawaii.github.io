@@ -150,6 +150,16 @@ show_breadcrumb: true
   <figcaption>Pāpa'i kualoa (Kona crab) female — broad abdomen; females may not be taken.</figcaption>
 </figure>
 
+<figure class="species-fig" style="clear:right;margin-top:1rem;">
+  <img src="{{ '/images/species_kona_crab_papai_kualoa_male.png' | relative_url }}" alt="Kona crab (pāpa'i kualoa) — male">
+  <figcaption>Pāpa'i kualoa (Kona crab) male — narrow, pointed abdomen.</figcaption>
+</figure>
+
+<figure class="species-fig" style="clear:right;margin-top:1rem;">
+  <img src="{{ '/images/species_kona_crab_underside_sexing.png' | relative_url }}" alt="Kona crab underside — male and female abdomen comparison">
+  <figcaption>Underside comparison: male (narrow) vs. female (broad) abdomen.</figcaption>
+</figure>
+
 - Measure **Carapace Length** in straight line from rostrum to middle of trailing edge of carapace.
 - **Sexing:** Male — "tail" (abdomen) narrow and pointed. Female — abdomen broad and rounded; first two segments about as wide as body.
 - **Taking of females prohibited.**
@@ -197,11 +207,21 @@ show_breadcrumb: true
 - Dark reddish-brown coloration with darker scale margins. Red fins.
 - Broad white band at base of caudal fin, extending into the fin.
 
+<figure class="species-fig" style="clear:right;margin-top:1rem;">
+  <img src="{{ '/images/species_uhu_eleele_terminal_male.png' | relative_url }}" alt="Uhu 'ele'ele — terminal male parrotfish">
+  <figcaption>Uhu 'ele'ele (terminal male) — green with dark blue marks around the mouth.</figcaption>
+</figure>
+
 ### Uhu 'ele'ele (terminal male)
 - Green coloration with dark blue marks around the mouth, extending to eyes.
 - Squarish, nearly vertical humped snout.
 - Bluish-green beak.
 - Lunate caudal fin with trailing filaments.
+
+<figure class="species-fig" style="clear:right;margin-top:1rem;">
+  <img src="{{ '/images/species_uhu_palukaluka.png' | relative_url }}" alt="Uhu palukaluka parrotfish">
+  <figcaption>Uhu palukaluka — reddish-brown front changing to yellowish-gray.</figcaption>
+</figure>
 
 ### Uhu palukaluka
 - Reddish-brown anteriorly, abruptly changing to yellowish-gray posteriorly.

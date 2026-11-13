@@ -49,6 +49,11 @@ breadcrumb_parent_url: /areas/
 
 ## Honolua-Mokulē'ia Bay Marine Life Conservation District
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_honolua_mokuleia_bay_mlcd.png' | relative_url }}" alt="Map of Honolua-Mokulē'ia Bay MLCD">
+  <figcaption>Honolua-Mokulē'ia Bay Marine Life Conservation District</figcaption>
+</figure>
+
 **Location:** Along the northwestern coast of Maui, bounded seaward by a line from 'Alaelae Point to Kalaepiha Point, then to the point at the northwestern corner of Honolua Bay.
 
 ### Permitted
@@ -63,6 +68,11 @@ breadcrumb_parent_url: /areas/
 ---
 
 ## Kahului Harbor
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_kahului_harbor.png' | relative_url }}" alt="Map of Kahului Harbor">
+  <figcaption>Kahului Harbor</figcaption>
+</figure>
 
 **Location:** Primary port on the northern coast of Maui. The Fisheries Management Area is bounded seaward by a line between the seaward edges of the breakwaters. Permitted activities shall not be construed as allowing activities within any portion of the harbor otherwise prohibited by laws or rules of the Department of Transportation.
 
@@ -100,6 +110,11 @@ breadcrumb_parent_url: /areas/
 ---
 
 ## Kīpahulu Community-Based Subsistence Fishing Area (CBSFA)
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_kipahulu_cbsfa_overview.png' | relative_url }}" alt="Overview map of Kīpahulu CBSFA">
+  <figcaption>Kīpahulu CBSFA overview and subzones</figcaption>
+</figure>
 
 <figure class="map-fig">
   <img src="{{ '/images/map_maui_kipahulu_cbsfa_detail.png' | relative_url }}" alt="Map of Kīpahulu CBSFA">

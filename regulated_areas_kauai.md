@@ -44,6 +44,16 @@ breadcrumb_parent_url: /areas/
 
 ## Nāwiliwili Harbor and Port Allen
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_nawiliwili_harbor.png' | relative_url }}" alt="Map of Nāwiliwili Harbor">
+  <figcaption>Nāwiliwili Harbor</figcaption>
+</figure>
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_port_allen.png' | relative_url }}" alt="Map of Port Allen small boat harbor">
+  <figcaption>Port Allen</figcaption>
+</figure>
+
 **Location:**
 - **Nāwiliwili Harbor** — That portion of the harbor, from the high-water mark seaward, bounded by a straight line from the southernmost tip of the western pier northeast to the corner formed where pier 1 meets the eastern pier.
 - **Port Allen** — That portion of Port Allen waters, from the high-water mark seaward, bounded by a straight line from the tip of the main breakwater northward to the bend in the breakwater of the small boat harbor.
@@ -124,6 +134,11 @@ breadcrumb_parent_url: /areas/
 
 ## Wailua Reservoir Public Fishing Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_wailua_reservoir_pfa.png' | relative_url }}" alt="Map of Wailua Reservoir Public Fishing Area">
+  <figcaption>Wailua Reservoir Public Fishing Area</figcaption>
+</figure>
+
 **Location:** Located off Kuamo'o Road approximately five miles mauka of Kūhi'ō Hwy, above the city of Wailua on Kaua'i.
 
 ### Permitted
@@ -156,6 +171,11 @@ breadcrumb_parent_url: /areas/
 ---
 
 ## Hā'ena Community-Based Subsistence Fishing Area (CBSFA)
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_kauai_haena_cbsfa.png' | relative_url }}" alt="Map of Hā'ena CBSFA">
+  <figcaption>Hā'ena Community-Based Subsistence Fishing Area</figcaption>
+</figure>
 
 **Location:** Waters and submerged lands from the shoreline to a distance of one mile off the northwestern coast of Kaua'i, bounded by a straight line extending seaward at the boundary between Hā'ena State Park and Nā Pali State Park, and a straight line extending seaward at the boundary between Hā'ena and Wainiha.
 

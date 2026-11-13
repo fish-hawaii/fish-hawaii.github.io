@@ -56,6 +56,11 @@ breadcrumb_parent_url: /areas/
 
 ## Waikīkī Marine Life Conservation District
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" alt="Map of Waikīkī MLCD and Waikīkī-Diamond Head Shoreline FMA">
+  <figcaption>Waikīkī MLCD and the adjoining Waikīkī-Diamond Head Shoreline FMA</figcaption>
+</figure>
+
 **Location:** From the groin at Kapahulu Avenue to the ewa wall of the Waikīkī War Memorial Natatorium, from the high-water mark out to a minimum seaward distance of 500 yards (or to the seaward edge of the fringing reef if it occurs beyond 500 yards).
 
 **Permitted:**
@@ -95,6 +100,11 @@ breadcrumb_parent_url: /areas/
 ---
 
 ## Waikīkī-Diamond Head Shoreline Fisheries Management Area
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" alt="Map of Waikīkī-Diamond Head Shoreline FMA">
+  <figcaption>Waikīkī-Diamond Head Shoreline Fisheries Management Area</figcaption>
+</figure>
 
 **Location:** From the 'Ewa wall of the Waikīkī War Memorial Natatorium to the Diamond Head Lighthouse, from the high-water mark out to a minimum seaward distance of 500 yards (or to the seaward edge of the fringing reef if one occurs beyond 500 yards).
 
@@ -161,6 +171,16 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 
 ## Coconut Island — Hawaii Marine Laboratory Refuge
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_kaneohe_bay_overview.jpg' | relative_url }}" alt="Overview map of Kāne'ohe Bay showing Coconut Island">
+  <figcaption>Kāne'ohe Bay overview — Coconut Island (Moku o Lo'e)</figcaption>
+</figure>
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_coconut_island_refuge.png' | relative_url }}" alt="Map of Coconut Island Hawaii Marine Laboratory Refuge">
+  <figcaption>Hawaii Marine Laboratory Refuge around Coconut Island</figcaption>
+</figure>
+
 **Location:** Reefs and bay waters surrounding Coconut (Moku-o-Loe) Island in Kāne'ohe Bay, from the high-water mark on the island seaward to twenty-five feet beyond the outer edges of the reefs.
 
 ### Prohibited
@@ -172,6 +192,16 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ---
 
 ## Ala Wai Canal & Kapālama Canal
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_ala_wai_canal.png' | relative_url }}" alt="Map of Ala Wai Canal">
+  <figcaption>Ala Wai Canal</figcaption>
+</figure>
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_kapalama_canal.png' | relative_url }}" alt="Map of Kapālama Canal">
+  <figcaption>Kapālama Canal</figcaption>
+</figure>
 
 **Location:**
 - **Ala Wai Canal** — Immediately north of Waikīkī; includes the Manoa-Pālolo drainage canal at the mouth of Manoa and Pālolo Streams.
@@ -255,6 +285,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 
 ## Wahiawā Public Fishing Area
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_wahiawa_reservoir_pfa.png' | relative_url }}" alt="Map of Wahiawā Reservoir Public Fishing Area">
+  <figcaption>Wahiawā Public Fishing Area (Wahiawā Reservoir)</figcaption>
+</figure>
+
 **Location:** A portion of the privately-owned Wahiawā Reservoir (Lake Wilson) in central O'ahu. The Wahiawā State Freshwater Park (located along the South Fork) includes a boat launching ramp and vehicle-trailer parking. Rules of the State Parks System also apply.
 
 ### Permitted
@@ -278,6 +313,11 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ---
 
 ## Nu'uanu Freshwater Fish Refuge
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_nuuanu_reservoir.png' | relative_url }}" alt="Map of Nu'uanu Reservoir">
+  <figcaption>Nu'uanu Reservoir No. 4 — Freshwater Fish Refuge</figcaption>
+</figure>
 
 **Location:** City and County of Honolulu's Nu'uanu Reservoirs No. 2, 3, and 4, located between Honolulu and Kailua off the Pali Highway on O'ahu.
 

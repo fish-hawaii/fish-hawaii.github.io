@@ -15,6 +15,11 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 
 ## 'Āhihi-Kīna'u Natural Area Reserve — Maui
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_maui_ahihi_kinau_reserve.png' | relative_url }}" alt="Map of 'Āhihi-Kīna'u Natural Area Reserve">
+  <figcaption>'Āhihi-Kīna'u Natural Area Reserve</figcaption>
+</figure>
+
 **Location:** 'Āhihi-Kīnau shore waters include the waters seaward of Cape Kīnau at a distance of 2,000 to 3,000 feet.
 
 ### Prohibited
@@ -27,6 +32,11 @@ These areas fall under the jurisdiction of DLNR divisions other than DAR, or oth
 ---
 
 ## Paikō Lagoon Wildlife Sanctuary — O'ahu
+
+<figure class="map-fig">
+  <img src="{{ '/images/map_oahu_paiko_lagoon_sanctuary.png' | relative_url }}" alt="Map of Paikō Lagoon Wildlife Sanctuary">
+  <figcaption>Paikō Lagoon Wildlife Sanctuary</figcaption>
+</figure>
 
 **Location:** Includes all State-owned land areas adjacent to Paikō Lagoon, and water areas within Paikō Lagoon.
 
