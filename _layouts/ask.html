@@ -45,6 +45,8 @@ layout: default
   <div id="ask-error" class="ask-error" hidden></div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js" integrity="sha384-/TQbtLCAerC3jgaim+N78RZSDYV7ryeoBCVqTuzRrFec2akfBkHS7ACQ3PQhvMVi" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js" integrity="sha384-+VfUPEb0PdtChMwmBcBmykRMDd+v6D/oFmB3rZM/puCMDYcIvF968OimRh4KQY9a" crossorigin="anonymous"></script>
 <script>
 (function () {
   var KEY_STORE = 'anthropic_api_key';
@@ -104,6 +106,7 @@ layout: default
     clearError();
     answerSec.hidden = false;
     answerBody.textContent = '';
+    var answerText = '';
     askBtn.disabled = true;
     askBtn.textContent = 'Thinking…';
 
@@ -165,7 +168,8 @@ layout: default
             try {
               var evt = JSON.parse(data);
               if (evt.type === 'content_block_delta' && evt.delta && evt.delta.type === 'text_delta') {
-                answerBody.textContent += evt.delta.text;
+                answerText += evt.delta.text;
+                renderAnswer(answerText);
               }
             } catch (_) {}
           });
@@ -185,6 +189,11 @@ layout: default
       askBtn.textContent = 'Ask';
     });
   });
+
+  // Render the model's markdown, sanitized since it is untrusted output
+  function renderAnswer(md) {
+    answerBody.innerHTML = DOMPurify.sanitize(marked.parse(md));
+  }
 
   function onDone() {
     askBtn.disabled = false;

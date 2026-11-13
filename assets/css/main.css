@@ -821,8 +821,17 @@ figure.species-fig figcaption {
     padding: 1rem 1.25rem;
     font-size: 0.975rem;
     line-height: 1.75;
-    white-space: pre-wrap;
     min-height: 3rem;
+}
+.answer-body > :first-child {
+    margin-top: 0;
+}
+.answer-body > :last-child {
+    margin-bottom: 0;
+}
+.answer-body ul,
+.answer-body ol {
+    padding-left: 1.5rem;
 }
 .answer-footer {
     border-top: 1px solid var(--border);
