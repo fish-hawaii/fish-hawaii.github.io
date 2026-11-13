@@ -43,7 +43,7 @@ title: Home
 
 <p class="section-label">About This Guide</p>
 
-<p>This site presents the Hawaii Division of Aquatic Resources (DAR) fishing regulations in an easy-to-read format. All content is derived from the official <em>fishing_regs_May_2025.pdf</em> rulebook. For the authoritative source, always refer to the <a href="https://dlnr.hawaii.gov/dar/fishing/" target="_blank" rel="noopener">DAR website</a> or visit a DAR office.</p>
+<p>This site presents the Hawaii Division of Aquatic Resources (DAR) fishing regulations in an easy-to-read format. All content is derived from the official <a href="{{ '/fishing_regs_May_2025.pdf' | relative_url }}"><em>fishing_regs_May_2025.pdf</em></a> rulebook. For the authoritative source, always refer to the <a href="https://dlnr.hawaii.gov/dar/fishing/" target="_blank" rel="noopener">DAR website</a> or visit a DAR office.</p>
 
 | Island | DAR Office | Phone |
 |--------|-----------|-------|
