@@ -58,6 +58,11 @@ The Division of Boating and Ocean Recreation has established rules relating to b
 
 ### Mānele Harbor
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_lanai_manele_small_boat_harbor.png' | relative_url }}" alt="Map of Mānele Small Boat Harbor areas">
+  <figcaption>Mānele Harbor — Area 1 and Area 2</figcaption>
+</figure>
+
 **Location:** Small boat harbor on the southern coast of Lāna'i.
 - **Area 1** — Shoreline portion of the entrance channel and basin, bounded seaward by a line connecting the seaward tip of the three groins along the shoreline.
 - **Area 2** — Breakwater portion of the entrance channel.

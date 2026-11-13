@@ -385,6 +385,11 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 
 ## South Kona (Miloli'i)
 
+<figure class="map-fig">
+  <img src="{{ '/images/map_hawaii_south_kona_boundaries.png' | relative_url }}" alt="Map of South Kona 'ōpelu bait restriction boundaries">
+  <figcaption>South Kona — Ki'ilae-Kēōkea to Kapua-Kaulanamauna boundaries</figcaption>
+</figure>
+
 **Location:** Waters off the coast of South Kona between the Ki'ilae-Kēōkea boundary and the Kapua-Kaulanamauna boundary.
 
 ### Prohibited
