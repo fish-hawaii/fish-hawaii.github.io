@@ -10,7 +10,7 @@ show_breadcrumb: true
 Hawaii's waters are managed through several types of designated areas that restrict or modify standard fishing rules. Select an island below to see specific area rules.
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_statewide_regulated_areas_overview.png' | relative_url }}" alt="Overview map of regulated fishing areas statewide">
+  <img src="{{ '/images/map_statewide_regulated_areas_overview.png' | relative_url }}" width="433" height="301" loading="lazy" decoding="async" alt="Overview map of regulated fishing areas statewide">
   <figcaption>Statewide overview of regulated fishing areas</figcaption>
 </figure>
 

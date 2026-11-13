@@ -33,7 +33,7 @@ breadcrumb_parent_url: /areas/
 ### Mānele-Hulopoʻe Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_lanai_manele_hulopoe_mlcd.png' | relative_url }}" alt="Map of Mānele-Hulopoʻe MLCD on Lānaʻi">
+  <img src="{{ '/images/map_lanai_manele_hulopoe_mlcd.png' | relative_url }}" width="525" height="263" loading="lazy" decoding="async" alt="Map of Mānele-Hulopoʻe MLCD on Lānaʻi">
   <figcaption>Mānele-Hulopoʻe MLCD — Subzone A (vessel-free) and Subzone B, southwestern Lānaʻi</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ The Division of Boating and Ocean Recreation has established rules relating to b
 ### Mānele Harbor
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_lanai_manele_small_boat_harbor.png' | relative_url }}" alt="Map of Mānele Small Boat Harbor areas">
+  <img src="{{ '/images/map_lanai_manele_small_boat_harbor.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Mānele Small Boat Harbor areas">
   <figcaption>Mānele Harbor — Area 1 and Area 2</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Permitted activities should not be construed as allowing activities otherwise pr
 ### Kaunakakai Harbor
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_molokai_kaunakakai_harbor.png' | relative_url }}" alt="Map of Kaunakakai Harbor areas">
+  <img src="{{ '/images/map_molokai_kaunakakai_harbor.png' | relative_url }}" width="271" height="525" loading="lazy" decoding="async" alt="Map of Kaunakakai Harbor areas">
   <figcaption>Kaunakakai Harbor — Areas 1A, 1B, and 2 fishing rules</figcaption>
 </figure>
 
