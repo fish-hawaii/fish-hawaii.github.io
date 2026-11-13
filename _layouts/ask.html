@@ -107,11 +107,19 @@ layout: default
     askBtn.disabled = true;
     askBtn.textContent = 'Thinking…';
 
-    var systemPrompt =
-      'You are a helpful assistant that answers questions about Hawaii fishing regulations. ' +
-      'Answer based only on the regulation content provided below. Be concise and direct. ' +
-      'If the question cannot be answered from the content, say so clearly rather than guessing.\n\n' +
-      'REGULATION CONTENT:\n' + regulationContext;
+    // The regulation content is identical on every request, so mark it for
+    // prompt caching: follow-up questions read it from cache at a fraction
+    // of the normal input price.
+    var systemPrompt = [
+      {
+        type: 'text',
+        text: 'You are a helpful assistant that answers questions about Hawaii fishing regulations. ' +
+          'Answer based only on the regulation content provided below. Be concise and direct. ' +
+          'If the question cannot be answered from the content, say so clearly rather than guessing.\n\n' +
+          'REGULATION CONTENT:\n' + regulationContext,
+        cache_control: { type: 'ephemeral' }
+      }
+    ];
 
     fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
