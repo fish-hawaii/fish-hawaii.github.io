@@ -295,6 +295,10 @@ tr:hover td {
     text-transform: uppercase;
     margin-bottom: 2rem;
 }
+.hero .meta-line a {
+    color: inherit;
+    text-decoration: underline;
+}
 .hero-map {
     max-width: 820px;
     margin: 0 auto;

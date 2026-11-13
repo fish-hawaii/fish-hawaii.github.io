@@ -16,6 +16,5 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - "*.pdf"
   - README.md
   - vendor/
