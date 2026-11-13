@@ -36,7 +36,7 @@ breadcrumb_parent_url: /areas/
 ## Hanauma Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_hanauma_bay_mlcd.png' | relative_url }}" alt="Map of Hanauma Bay MLCD">
+  <img src="{{ '/images/map_oahu_hanauma_bay_mlcd.png' | relative_url }}" width="525" height="263" loading="lazy" decoding="async" alt="Map of Hanauma Bay MLCD">
   <figcaption>Hanauma Bay Marine Life Conservation District boundary</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ breadcrumb_parent_url: /areas/
 ## Waikīkī Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" alt="Map of Waikīkī MLCD and Waikīkī-Diamond Head Shoreline FMA">
+  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Waikīkī MLCD and Waikīkī-Diamond Head Shoreline FMA">
   <figcaption>Waikīkī MLCD and the adjoining Waikīkī-Diamond Head Shoreline FMA</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ breadcrumb_parent_url: /areas/
 ## Pūpūkea Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_pupukea_mlcd_waimea_bay.png' | relative_url }}" alt="Map of Pūpūkea MLCD and Waimea Bay">
+  <img src="{{ '/images/map_oahu_pupukea_mlcd_waimea_bay.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Pūpūkea MLCD and Waimea Bay">
   <figcaption>Pūpūkea MLCD and Waimea Bay boundary</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ breadcrumb_parent_url: /areas/
 ## Waikīkī-Diamond Head Shoreline Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" alt="Map of Waikīkī-Diamond Head Shoreline FMA">
+  <img src="{{ '/images/map_oahu_waikiki_mlcd_diamond_head_fma.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Waikīkī-Diamond Head Shoreline FMA">
   <figcaption>Waikīkī-Diamond Head Shoreline Fisheries Management Area</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Honolulu Harbor
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_honolulu_harbor.png' | relative_url }}" alt="Map of Honolulu Harbor fishing restrictions">
+  <img src="{{ '/images/map_oahu_honolulu_harbor.png' | relative_url }}" width="525" height="338" loading="lazy" decoding="async" alt="Map of Honolulu Harbor fishing restrictions">
   <figcaption>Honolulu Harbor — restricted area boundaries</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Maunalua Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_maunalua_bay_fma.png' | relative_url }}" alt="Map of Maunalua Bay FMA">
+  <img src="{{ '/images/map_oahu_maunalua_bay_fma.png' | relative_url }}" width="525" height="327" loading="lazy" decoding="async" alt="Map of Maunalua Bay FMA">
   <figcaption>Maunalua Bay Fisheries Management Area boundary</figcaption>
 </figure>
 
@@ -172,12 +172,12 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Coconut Island — Hawaii Marine Laboratory Refuge
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_kaneohe_bay_overview.jpg' | relative_url }}" alt="Overview map of Kāneʻohe Bay showing Coconut Island">
+  <img src="{{ '/images/map_oahu_kaneohe_bay_overview.jpg' | relative_url }}" width="467" height="235" loading="lazy" decoding="async" alt="Overview map of Kāneʻohe Bay showing Coconut Island">
   <figcaption>Kāneʻohe Bay overview — Coconut Island (Moku o Loʻe)</figcaption>
 </figure>
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_coconut_island_refuge.png' | relative_url }}" alt="Map of Coconut Island Hawaii Marine Laboratory Refuge">
+  <img src="{{ '/images/map_oahu_coconut_island_refuge.png' | relative_url }}" width="296" height="263" loading="lazy" decoding="async" alt="Map of Coconut Island Hawaii Marine Laboratory Refuge">
   <figcaption>Hawaii Marine Laboratory Refuge around Coconut Island</figcaption>
 </figure>
 
@@ -194,12 +194,12 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Ala Wai Canal & Kapālama Canal
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_ala_wai_canal.png' | relative_url }}" alt="Map of Ala Wai Canal">
+  <img src="{{ '/images/map_oahu_ala_wai_canal.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Ala Wai Canal">
   <figcaption>Ala Wai Canal</figcaption>
 </figure>
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_kapalama_canal.png' | relative_url }}" alt="Map of Kapālama Canal">
+  <img src="{{ '/images/map_oahu_kapalama_canal.png' | relative_url }}" width="525" height="263" loading="lazy" decoding="async" alt="Map of Kapālama Canal">
   <figcaption>Kapālama Canal</figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Heʻeia Kea Wharf
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_heeia_kea_wharf.png' | relative_url }}" alt="Map of Heʻeia Kea Wharf area">
+  <img src="{{ '/images/map_oahu_heeia_kea_wharf.png' | relative_url }}" width="525" height="263" loading="lazy" decoding="async" alt="Map of Heʻeia Kea Wharf area">
   <figcaption>Heʻeia Kea Wharf — Kāneʻohe Bay restricted area</figcaption>
 </figure>
 
@@ -244,7 +244,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Pōkaʻī Bay
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_pokai_bay.png' | relative_url }}" alt="Map of Pōkaʻī Bay restricted area">
+  <img src="{{ '/images/map_oahu_pokai_bay.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Pōkaʻī Bay restricted area">
   <figcaption>Pōkaʻī Bay / Waiʻanae Small Boat Harbor fishing restrictions</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Waialua Bay (Haleʻiwa Harbor)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_haleiwa_harbor_waialua_bay.png' | relative_url }}" alt="Map of Waialua Bay / Haleʻiwa Harbor restricted area">
+  <img src="{{ '/images/map_oahu_haleiwa_harbor_waialua_bay.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Waialua Bay / Haleʻiwa Harbor restricted area">
   <figcaption>Waialua Bay / Haleʻiwa Harbor fishing area boundaries</figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Wahiawā Public Fishing Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_wahiawa_reservoir_pfa.png' | relative_url }}" alt="Map of Wahiawā Reservoir Public Fishing Area">
+  <img src="{{ '/images/map_oahu_wahiawa_reservoir_pfa.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Wahiawā Reservoir Public Fishing Area">
   <figcaption>Wahiawā Public Fishing Area (Wahiawā Reservoir)</figcaption>
 </figure>
 
@@ -315,7 +315,7 @@ Prohibited gear and restricted species may be possessed while onboard a vessel i
 ## Nuʻuanu Freshwater Fish Refuge
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_oahu_nuuanu_reservoir.png' | relative_url }}" alt="Map of Nuʻuanu Reservoir">
+  <img src="{{ '/images/map_oahu_nuuanu_reservoir.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Nuʻuanu Reservoir">
   <figcaption>Nuʻuanu Reservoir No. 4 — Freshwater Fish Refuge</figcaption>
 </figure>
 

@@ -35,7 +35,7 @@ breadcrumb_parent_url: /areas/
 ## Kealakekua Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_kealakekua_bay_mlcd.png' | relative_url }}" alt="Map of Kealakekua Bay MLCD">
+  <img src="{{ '/images/map_hawaii_kealakekua_bay_mlcd.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Kealakekua Bay MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ breadcrumb_parent_url: /areas/
 ## Old Kona Airport Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/kona_airport.png' | relative_url }}" alt="Map of Old Kona Airport MLCD">
+  <img src="{{ '/images/kona_airport.png' | relative_url }}" width="900" height="396" loading="lazy" decoding="async" alt="Map of Old Kona Airport MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ breadcrumb_parent_url: /areas/
 ## Waialea Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/waialea_bay.png' | relative_url }}" alt="Map of Waialea Bay MLCD">
+  <img src="{{ '/images/waialea_bay.png' | relative_url }}" width="440" height="702" loading="lazy" decoding="async" alt="Map of Waialea Bay MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ breadcrumb_parent_url: /areas/
 ## Lapakahi Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/lapakahi.png' | relative_url }}" alt="Map of Lapakahi MLCD">
+  <img src="{{ '/images/lapakahi.png' | relative_url }}" width="406" height="902" loading="lazy" decoding="async" alt="Map of Lapakahi MLCD">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ breadcrumb_parent_url: /areas/
 ## Waiākea Public Fishing Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_waiakea_fish_pond_hilo.png' | relative_url }}" alt="Map of Waiākea fish pond PFA in Hilo">
+  <img src="{{ '/images/map_hawaii_waiakea_fish_pond_hilo.png' | relative_url }}" width="263" height="338" loading="lazy" decoding="async" alt="Map of Waiākea fish pond PFA in Hilo">
   <figcaption>Waiākea PFA — Wailoa River State Park, Hilo</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ breadcrumb_parent_url: /areas/
 ## Hilo Bay, Wailoa River, and Wailuku River
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_hilo_harbor_wailoa_river.png' | relative_url }}" alt="Map of Hilo Bay and Wailoa River restricted areas">
+  <img src="{{ '/images/map_hawaii_hilo_harbor_wailoa_river.png' | relative_url }}" width="525" height="338" loading="lazy" decoding="async" alt="Map of Hilo Bay and Wailoa River restricted areas">
   <figcaption>Hilo Bay, Wailoa River, and Wailuku River fishing restrictions</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ breadcrumb_parent_url: /areas/
 ## West Hawaiʻi Regional Fishery Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_west_hawaii_fma_overview.png' | relative_url }}" alt="Overview map of West Hawaiʻi Regional FMA">
+  <img src="{{ '/images/map_hawaii_west_hawaii_fma_overview.png' | relative_url }}" width="525" height="503" loading="lazy" decoding="async" alt="Overview map of West Hawaiʻi Regional FMA">
   <figcaption>West Hawaiʻi Regional FMA — extends from South Point to ʻŪpolu Point, including all MLCDs, FRAs, and NRAs along the Kona Coast</figcaption>
 </figure>
 
@@ -252,7 +252,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Puakō Bay and Puakō Reef Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/Puako.png' | relative_url }}" alt="Map of Puakō Bay and Puakō Reef FMA">
+  <img src="{{ '/images/Puako.png' | relative_url }}" width="1004" height="648" loading="lazy" decoding="async" alt="Map of Puakō Bay and Puakō Reef FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Kona Coast Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_kona_coast_fma_zones.png' | relative_url }}" alt="Map of Kona Coast FMA zones">
+  <img src="{{ '/images/map_hawaii_kona_coast_fma_zones.png' | relative_url }}" width="300" height="487" loading="lazy" decoding="async" alt="Map of Kona Coast FMA zones">
   <figcaption>Kona Coast FMA — four zones: Wawāloli, Papawai Bay, Kailua Bay, and Red Hill</figcaption>
 </figure>
 
@@ -294,7 +294,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Kiholo Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_kiholo_bay_fma.png' | relative_url }}" alt="Map of Kiholo Bay FMA">
+  <img src="{{ '/images/map_hawaii_kiholo_bay_fma.png' | relative_url }}" width="525" height="225" loading="lazy" decoding="async" alt="Map of Kiholo Bay FMA">
   <figcaption>Kiholo Bay FMA — includes Wainānāliʻi Pond (excludes Luahinewai Pond)</figcaption>
 </figure>
 
@@ -312,7 +312,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Kawaihae Harbor
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_kawaihae_harbor.png' | relative_url }}" alt="Map of Kawaihae Harbor zones">
+  <img src="{{ '/images/map_hawaii_kawaihae_harbor.png' | relative_url }}" width="263" height="263" loading="lazy" decoding="async" alt="Map of Kawaihae Harbor zones">
   <figcaption>Kawaihae Harbor — Zone A and Zone B fishing rules</figcaption>
 </figure>
 
@@ -337,7 +337,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Kailua Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/kailua.png' | relative_url }}" alt="Map of Kailua Bay FMA">
+  <img src="{{ '/images/kailua.png' | relative_url }}" width="1038" height="642" loading="lazy" decoding="async" alt="Map of Kailua Bay FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -364,7 +364,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Keauhou Bay Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/keauhou_bay.png' | relative_url }}" alt="Map of Keauhou Bay FMA">
+  <img src="{{ '/images/keauhou_bay.png' | relative_url }}" width="948" height="756" loading="lazy" decoding="async" alt="Map of Keauhou Bay FMA">
   <figcaption>Kealakekua Bay MLCD — Subzone A (fully protected) and Subzone B (limited fishing)</figcaption>
 </figure>
 
@@ -386,7 +386,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## South Kona (Miloliʻi)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_south_kona_boundaries.png' | relative_url }}" alt="Map of South Kona ʻōpelu bait restriction boundaries">
+  <img src="{{ '/images/map_hawaii_south_kona_boundaries.png' | relative_url }}" width="189" height="284" loading="lazy" decoding="async" alt="Map of South Kona ʻōpelu bait restriction boundaries">
   <figcaption>South Kona — Kiʻilae-Kēōkea to Kapua-Kaulanamauna boundaries</figcaption>
 </figure>
 
@@ -400,7 +400,7 @@ Persons using a vessel or float may use a total maximum of 250 feet of lay net, 
 ## Miloliʻi Community-Based Subsistence Fishing Area (CBSFA)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_hawaii_miloii_cbsfa.png' | relative_url }}" alt="Map of Miloliʻi CBSFA">
+  <img src="{{ '/images/map_hawaii_miloii_cbsfa.png' | relative_url }}" width="492" height="492" loading="lazy" decoding="async" alt="Map of Miloliʻi CBSFA">
   <figcaption>Miloliʻi CBSFA — southwest Hawaiʻi Island, from Paʻakai Point to Kaunā Point</figcaption>
 </figure>
 

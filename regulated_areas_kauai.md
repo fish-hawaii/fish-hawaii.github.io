@@ -27,7 +27,7 @@ breadcrumb_parent_url: /areas/
 ## Hanamāʻulu Bay and Ahukini Recreational Pier
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_hanamaulu_bay_ahukini_pier.png' | relative_url }}" alt="Map of Hanamāʻulu Bay and Ahukini Pier">
+  <img src="{{ '/images/map_kauai_hanamaulu_bay_ahukini_pier.png' | relative_url }}" width="525" height="271" loading="lazy" decoding="async" alt="Map of Hanamāʻulu Bay and Ahukini Pier">
   <figcaption>Hanamāʻulu Bay FMA and Ahukini Recreational Pier area</figcaption>
 </figure>
 
@@ -45,12 +45,12 @@ breadcrumb_parent_url: /areas/
 ## Nāwiliwili Harbor and Port Allen
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_nawiliwili_harbor.png' | relative_url }}" alt="Map of Nāwiliwili Harbor">
+  <img src="{{ '/images/map_kauai_nawiliwili_harbor.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Nāwiliwili Harbor">
   <figcaption>Nāwiliwili Harbor</figcaption>
 </figure>
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_port_allen.png' | relative_url }}" alt="Map of Port Allen small boat harbor">
+  <img src="{{ '/images/map_kauai_port_allen.png' | relative_url }}" width="523" height="300" loading="lazy" decoding="async" alt="Map of Port Allen small boat harbor">
   <figcaption>Port Allen</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ breadcrumb_parent_url: /areas/
 ## Kapaʻa and Waikaʻea Canals
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_kapaa_waikaea_canals.png' | relative_url }}" alt="Map of Kapaʻa and Waikaʻea Canals">
+  <img src="{{ '/images/map_kauai_kapaa_waikaea_canals.png' | relative_url }}" width="300" height="338" loading="lazy" decoding="async" alt="Map of Kapaʻa and Waikaʻea Canals">
   <figcaption>Kapaʻa and Waikaʻea Canals — east Kauaʻi fishing area</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ breadcrumb_parent_url: /areas/
 ## Waimea Bay and Waimea Recreational Pier
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_waimea_bay_pier.png' | relative_url }}" alt="Map of Waimea Bay and Recreational Pier">
+  <img src="{{ '/images/map_kauai_waimea_bay_pier.png' | relative_url }}" width="525" height="172" loading="lazy" decoding="async" alt="Map of Waimea Bay and Recreational Pier">
   <figcaption>Waimea Recreational Pier — south Kauaʻi; pier-specific restrictions apply within 50 yards</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ breadcrumb_parent_url: /areas/
 ## Kōkeʻe Public Fishing Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_kokee_pfa_streams.png' | relative_url }}" alt="Map of Kōkeʻe PFA streams">
+  <img src="{{ '/images/map_kauai_kokee_pfa_streams.png' | relative_url }}" width="510" height="437" loading="lazy" decoding="async" alt="Map of Kōkeʻe PFA streams">
   <figcaption>Kōkeʻe PFA — rainbow trout streams and restricted zones in Kōkeʻe State Park</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ breadcrumb_parent_url: /areas/
 ## Wailua Reservoir Public Fishing Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_wailua_reservoir_pfa.png' | relative_url }}" alt="Map of Wailua Reservoir Public Fishing Area">
+  <img src="{{ '/images/map_kauai_wailua_reservoir_pfa.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Wailua Reservoir Public Fishing Area">
   <figcaption>Wailua Reservoir Public Fishing Area</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ breadcrumb_parent_url: /areas/
 ## Hāʻena Community-Based Subsistence Fishing Area (CBSFA)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_kauai_haena_cbsfa.png' | relative_url }}" alt="Map of Hāʻena CBSFA">
+  <img src="{{ '/images/map_kauai_haena_cbsfa.png' | relative_url }}" width="525" height="324" loading="lazy" decoding="async" alt="Map of Hāʻena CBSFA">
   <figcaption>Hāʻena Community-Based Subsistence Fishing Area</figcaption>
 </figure>
 

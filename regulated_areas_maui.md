@@ -25,7 +25,7 @@ breadcrumb_parent_url: /areas/
 ## Molokini Shoal Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_molokini_shoal_mlcd.png' | relative_url }}" alt="Map of Molokini Shoal MLCD">
+  <img src="{{ '/images/map_maui_molokini_shoal_mlcd.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Molokini Shoal MLCD">
   <figcaption>Molokini Shoal MLCD — Subzone A (crater, fully protected) and Subzone B (trolling permitted)</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ breadcrumb_parent_url: /areas/
 ## Honolua-Mokulēʻia Bay Marine Life Conservation District
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_honolua_mokuleia_bay_mlcd.png' | relative_url }}" alt="Map of Honolua-Mokulēʻia Bay MLCD">
+  <img src="{{ '/images/map_maui_honolua_mokuleia_bay_mlcd.png' | relative_url }}" width="525" height="263" loading="lazy" decoding="async" alt="Map of Honolua-Mokulēʻia Bay MLCD">
   <figcaption>Honolua-Mokulēʻia Bay Marine Life Conservation District</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ breadcrumb_parent_url: /areas/
 ## Kahului Harbor
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_kahului_harbor.png' | relative_url }}" alt="Map of Kahului Harbor">
+  <img src="{{ '/images/map_maui_kahului_harbor.png' | relative_url }}" width="525" height="300" loading="lazy" decoding="async" alt="Map of Kahului Harbor">
   <figcaption>Kahului Harbor</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ breadcrumb_parent_url: /areas/
 ## Kahekili Herbivore Fisheries Management Area
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_kahekili_herbivore_fma.jpg' | relative_url }}" alt="Map of Kahekili Herbivore FMA">
+  <img src="{{ '/images/map_maui_kahekili_herbivore_fma.jpg' | relative_url }}" width="525" height="323" loading="lazy" decoding="async" alt="Map of Kahekili Herbivore FMA">
   <figcaption>Kahekili Herbivore FMA — north Kāʻanapali; parrotfish, surgeonfish, and sea urchins protected</figcaption>
 </figure>
 
@@ -112,12 +112,12 @@ breadcrumb_parent_url: /areas/
 ## Kīpahulu Community-Based Subsistence Fishing Area (CBSFA)
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_kipahulu_cbsfa_overview.png' | relative_url }}" alt="Overview map of Kīpahulu CBSFA">
+  <img src="{{ '/images/map_maui_kipahulu_cbsfa_overview.png' | relative_url }}" width="525" height="346" loading="lazy" decoding="async" alt="Overview map of Kīpahulu CBSFA">
   <figcaption>Kīpahulu CBSFA overview and subzones</figcaption>
 </figure>
 
 <figure class="map-fig">
-  <img src="{{ '/images/map_maui_kipahulu_cbsfa_detail.png' | relative_url }}" alt="Map of Kīpahulu CBSFA">
+  <img src="{{ '/images/map_maui_kipahulu_cbsfa_detail.png' | relative_url }}" width="525" height="346" loading="lazy" decoding="async" alt="Map of Kīpahulu CBSFA">
   <figcaption>Kīpahulu CBSFA — southeast Maui coast with ʻOpihi Rest Area and Kukui Bay Sanctuary sub-zones</figcaption>
 </figure>
 
