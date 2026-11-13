@@ -273,44 +273,44 @@ show_breadcrumb: true
 | Photo | Hawaiian/Common Name | Scientific Name |
 |-------|----------------------|----------------|
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Āholehole" class="species-thumb"> | Āholehole | *Kuhlia sandvicensis*, *K. xenura* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Akule" class="species-thumb"> | Akule | *Selar crumenophthalmus* |
+| <img src="{{ '/images/akule.png' | relative_url }}" alt="Akule" class="species-thumb"> | Akule | *Selar crumenophthalmus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ama'ama / pua" class="species-thumb"> | 'Ama'ama, pua (striped mullet) | *Mugil cephalus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Awa" class="species-thumb"> | Awa | *Chanos chanos* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Goatfish (Maui)" class="species-thumb"> | Goatfish (Maui) | family Mullidae |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Gold-spot herring" class="species-thumb"> | Gold-spot herring | *Herklotsichthys quadrimaculatus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Hāpu'u" class="species-thumb"> | Hāpu'u | *Epinephelus quernus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Iao" class="species-thumb"> | 'Iao (silversides) | *Atherinomorus insularum* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kala" class="species-thumb"> | Kala | *Naso unicornis*, *N. brevirostris*, *N. annulatus* |
+| <img src="{{ '/images/iao.png' | relative_url }}" alt="'Iao" class="species-thumb"> | 'Iao (silversides) | *Atherinomorus insularum* |
+| <img src="{{ '/images/kala.png' | relative_url }}" alt="Kala" class="species-thumb"> | Kala | *Naso unicornis*, *N. brevirostris*, *N. annulatus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kalekale" class="species-thumb"> | Kalekale | *Pristipomoides sieboldii* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kole" class="species-thumb"> | Kole | *Ctenochaetus strigosus* |
+| <img src="{{ '/images/kole.jpg' | relative_url }}" alt="Kole" class="species-thumb"> | Kole | *Ctenochaetus strigosus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kūmū" class="species-thumb"> | Kūmū | *Parupeneus porphyreus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Lehi" class="species-thumb"> | Lehi | *Aphareus rutilans* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Makiawa" class="species-thumb"> | Makiawa (mikiawa) | *Etrumeus teres*, *E. micropus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Manini" class="species-thumb"> | Manini | *Acanthurus triostegus sandvicensis* |
+| <img src="{{ '/images/manini.png' | relative_url }}" alt="Manini" class="species-thumb"> | Manini | *Acanthurus triostegus sandvicensis* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Marquesan sardine" class="species-thumb"> | Marquesan sardine | *Sardinella marquensis* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Moano" class="species-thumb"> | Moano | *Parupeneus multifasciatus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Moano kea" class="species-thumb"> | Moano kea | *Parupeneus cyclostomus* |
+| <img src="{{ '/images/moano.png' | relative_url }}" alt="Moano" class="species-thumb"> | Moano | *Parupeneus multifasciatus* |
+| <img src="{{ '/images/moano_kea.png' | relative_url }}" alt="Moano kea" class="species-thumb"> | Moano kea | *Parupeneus cyclostomus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Moi" class="species-thumb"> | Moi | *Polydactylus sexfilis* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Munu" class="species-thumb"> | Munu | *Parupeneus insularis* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Nehu" class="species-thumb"> | Nehu | *Encrasicholina purpurea* |
+| <img src="{{ '/images/munu.jpg' | relative_url }}" alt="Munu" class="species-thumb"> | Munu | *Parupeneus insularis* |
+| <img src="{{ '/images/nehu.png' | relative_url }}" alt="Nehu" class="species-thumb"> | Nehu | *Encrasicholina purpurea* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ō'io" class="species-thumb"> | 'Ō'io | *Albula glossodonta* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ōpakapaka" class="species-thumb"> | 'Ōpakapaka | *Pristipomoides filamentosus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ōpelu" class="species-thumb"> | 'Ōpelu | *Decapterus macarellus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ōpelu kala" class="species-thumb"> | 'Ōpelu kala | *Naso hexacanthus* |
+| <img src="{{ '/images/opakapaka.png' | relative_url }}" alt="'Ōpakapaka" class="species-thumb"> | 'Ōpakapaka | *Pristipomoides filamentosus* |
+| <img src="{{ '/images/opelu.png' | relative_url }}" alt="'Ōpelu" class="species-thumb"> | 'Ōpelu | *Decapterus macarellus* |
+| <img src="{{ '/images/kala_opelu.png' | relative_url }}" alt="'Ōpelu kala" class="species-thumb"> | 'Ōpelu kala | *Naso hexacanthus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Piha" class="species-thumb"> | Piha | *Spratelloides delicatulus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Tabai" class="species-thumb"> | "Tabai" | *Mollienesia* spp. |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Threadfin shad" class="species-thumb"> | Threadfin shad | *Dorosoma petenense* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Uhu" class="species-thumb"> | Uhu (statewide except Maui) | *Scarus dubius*, *S. psittacus*, *S. rubroviolaceus*, *Chlorurus spilurus*, *C. perspicillatus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Uhu (Maui)" class="species-thumb"> | Uhu (Maui) | family Scaridae |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Uhu uliuli / uhu 'ahu'ula" class="species-thumb"> | Uhu uliuli and uhu 'ahu'ula | *Chlorurus perspicillatus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Uhu 'ele'ele / uhu pālukaluka" class="species-thumb"> | Uhu 'ele'ele and uhu pālukaluka | *Scarus rubroviolaceus* |
+| <img src="{{ '/images/species_uhu_uliuli_terminal_male.png' | relative_url }}" alt="Uhu uliuli / uhu 'ahu'ula" class="species-thumb"> | Uhu uliuli and uhu 'ahu'ula | *Chlorurus perspicillatus* |
+| <img src="{{ '/images/species_uhu_eleele_terminal_male.png' | relative_url }}" alt="Uhu 'ele'ele / uhu pālukaluka" class="species-thumb"> | Uhu 'ele'ele and uhu pālukaluka | *Scarus rubroviolaceus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ukikiki" class="species-thumb"> | 'Ukikiki (gindai) | *Pristipomoides zonatus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ula'ula (ehu)" class="species-thumb"> | 'Ula'ula (ehu) | *Etelis carbunculus* |
+| <img src="{{ '/images/ehu.png' | relative_url }}" alt="'Ula'ula (ehu)" class="species-thumb"> | 'Ula'ula (ehu) | *Etelis carbunculus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ula'ula koa'e (onaga)" class="species-thumb"> | 'Ula'ula koa'e (onaga) | *Etelis coruscans* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Ulua / pāpio" class="species-thumb"> | Ulua and pāpio | *Caranx ignobilis*, *C. lugubris*, *C. melampygus*, *C. sexfasciatus*, *Carangoides equula*, *C. ferdau*, *C. orthogrammus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Weke 'ā / 'oama" class="species-thumb"> | Weke ('ā) and 'oama | *Mulloidichthys flavolineatus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Weke 'ula (Maui)" class="species-thumb"> | Weke 'ula (Maui) | *Mulloidichthys vanicolensis* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Weke nono (Maui)" class="species-thumb"> | Weke nono (Maui) | *Mulloidichthys pfluegeri* |
+| <img src="{{ '/images/weke_ula.png' | relative_url }}" alt="Weke 'ā / 'oama" class="species-thumb"> | Weke ('ā) and 'oama | *Mulloidichthys flavolineatus* |
+| <img src="{{ '/images/weke_ula.png' | relative_url }}" alt="Weke 'ula (Maui)" class="species-thumb"> | Weke 'ula (Maui) | *Mulloidichthys vanicolensis* |
+| <img src="{{ '/images/weke_nono.png' | relative_url }}" alt="Weke nono (Maui)" class="species-thumb"> | Weke nono (Maui) | *Mulloidichthys pfluegeri* |
 
 ### Invertebrates
 
@@ -321,17 +321,17 @@ show_breadcrumb: true
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Coral rock oyster" class="species-thumb"> | Coral rock oyster | *Crassostrea amasa* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Eastern oyster" class="species-thumb"> | Eastern oyster | *C. virginica* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Hā'uke'uke" class="species-thumb"> | Hā'uke'uke | *Colobocentrotus atratus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="He'e" class="species-thumb"> | He'e | *Octopus cyanea*, *O. ornatus* |
+| <img src="{{ '/images/tako.png' | relative_url }}" alt="He'e" class="species-thumb"> | He'e | *Octopus cyanea*, *O. ornatus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Japanese oyster" class="species-thumb"> | Japanese oyster | *Crassostrea gigas* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Japanese littleneck clam" class="species-thumb"> | Japanese littleneck clam | *Tapes philippinarum* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kona crab" class="species-thumb"> | Kona crab | *Ranina ranina* |
+| <img src="{{ '/images/kona_crab.png' | relative_url }}" alt="Kona crab" class="species-thumb"> | Kona crab | *Ranina ranina* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Ōpae" class="species-thumb"> | 'Ōpae (shrimp) | Order Decapoda |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="'Opihi" class="species-thumb"> | 'Opihi | Genus *Cellana* |
+| <img src="{{ '/images/opihi.png' | relative_url }}" alt="'Opihi" class="species-thumb"> | 'Opihi | Genus *Cellana* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Pearl oyster" class="species-thumb"> | Pearl oyster | *Pinctada margaritifera* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Samoan crab" class="species-thumb"> | Samoan crab | *Scylla serrata* |
+| <img src="{{ '/images/samoan_crab.png' | relative_url }}" alt="Samoan crab" class="species-thumb"> | Samoan crab | *Scylla serrata* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Top shell" class="species-thumb"> | Top shell | *Trochus* spp. |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Ula" class="species-thumb"> | Ula (spiny lobster) | *Panulirus penicillatus*, *P. marginatus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Ula pāpapa" class="species-thumb"> | Ula pāpapa (slipper lobster) | *Scyllarides squammosus*, *S. haanii* |
+| <img src="{{ '/images/ula.png' | relative_url }}" alt="Ula" class="species-thumb"> | Ula (spiny lobster) | *Panulirus penicillatus*, *P. marginatus* |
+| <img src="{{ '/images/ula_papapa.png' | relative_url }}" alt="Ula pāpapa" class="species-thumb"> | Ula pāpapa (slipper lobster) | *Scyllarides squammosus*, *S. haanii* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Wana" class="species-thumb"> | Wana | *Echinothrix diadema* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Wana halula" class="species-thumb"> | Wana halula | *Diadema paucispinum* |
 
@@ -348,7 +348,7 @@ show_breadcrumb: true
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Achilles tang" class="species-thumb"> | Achilles tang | *Acanthurus achilles* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Bandit angelfish" class="species-thumb"> | Bandit angelfish / Banded angel | *Apolemichthys arcuatus* / *Holacanthus arcuatus*, *Desmoholacanthus arcuatus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Cleaner wrasse" class="species-thumb"> | Cleaner wrasse | *Labroides phthirophagus* |
-| <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Kole" class="species-thumb"> | Kole | *Ctenochaetus strigosus* |
+| <img src="{{ '/images/kole.jpg' | relative_url }}" alt="Kole" class="species-thumb"> | Kole | *Ctenochaetus strigosus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Moorish idol" class="species-thumb"> | Moorish idol | *Zanclus cornutus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Naso tang" class="species-thumb"> | Naso tang | *Naso lituratus* |
 | <img src="{{ '/images/placeholder_species.svg' | relative_url }}" alt="Ornate butterflyfish" class="species-thumb"> | Ornate butterflyfish | *Chaetodon ornatissimus* |
