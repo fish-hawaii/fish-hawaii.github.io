@@ -48,7 +48,7 @@ layout: default
 <script>
 (function () {
   var KEY_STORE = 'anthropic_api_key';
-  var MODEL     = 'claude-haiku-4-5-20251001';
+  var MODEL     = 'claude-haiku-5-5';
 
   var keyInput    = document.getElementById('api-key-input');
   var keySave     = document.getElementById('api-key-save');
@@ -123,7 +123,9 @@ layout: default
       },
       body: JSON.stringify({
         model: MODEL,
-        max_tokens: 1024,
+        max_tokens: 8192,
+        // Short factual Q&A: keep thinking light to save latency and cost
+        output_config: { effort: 'low' },
         stream: true,
         system: systemPrompt,
         messages: [{ role: 'user', content: question }]
